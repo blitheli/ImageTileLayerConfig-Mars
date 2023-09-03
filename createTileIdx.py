@@ -9,8 +9,8 @@ import pandas as pd
 
 #运行前注意填写行星和图层类型
 
-planet = 'Moon'  #月球为Moon，火星为Mars
-service = 'SP'  #赤道为EQ，北极为NP，南极为SP
+planet = 'Mars'  #月球为Moon，火星为Mars
+service = 'EQ'  #赤道为EQ，北极为NP，南极为SP
 
 
 # info中包含多个图层时使用
