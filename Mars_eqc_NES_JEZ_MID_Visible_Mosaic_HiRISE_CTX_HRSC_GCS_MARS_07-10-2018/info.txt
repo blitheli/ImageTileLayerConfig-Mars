@@ -1,0 +1,9 @@
+MRO HiRISE, Mosaic Jezero NE Syrtis Midway
+Layer ID:Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018
+bbox:[76.7912789, 17.5791654, 77.7314417, 18.6926322]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

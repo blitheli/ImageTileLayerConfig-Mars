@@ -1,0 +1,9 @@
+MRO CTX, Gale Crater Mosaic
+Layer ID:Mars_eqc_Gale_CTX_BlockAdj_dd
+bbox:[135.1842593, -6.5732988, 139.2413012, -2.8077809]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Gale_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

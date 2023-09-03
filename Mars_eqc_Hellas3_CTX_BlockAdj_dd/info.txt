@@ -1,0 +1,9 @@
+MRO CTX, Hellas Mesopotamia Mosaic
+Layer ID:Mars_eqc_Hellas3_CTX_BlockAdj_dd
+bbox:[91.7243027, -37.2541428, 96.2500099, -33.6135517]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Hellas3_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

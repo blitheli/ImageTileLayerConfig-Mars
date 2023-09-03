@@ -1,0 +1,9 @@
+Mars Express HRSC, Viking 1 Landing Site Mosaic
+Layer ID:Mars_eqc_h2942_0000_nd3
+bbox:[-49.5924103, 14.0680405, -46.3979178, 26.8116326]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/h2942_0000_nd3
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Express HRSC, Mawrth Vallis Mosaic",
+    "LayerID": "Mars_eqc_hrsc_mawrth_vallis",
+    "Icon": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\hrsc_mawrth_vallis-120.png",
+    "BBOX": [
+        -22.0015016,
+        20.9957076,
+        -16.5001079,
+        27.0011311
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\MetaData.html"
+}

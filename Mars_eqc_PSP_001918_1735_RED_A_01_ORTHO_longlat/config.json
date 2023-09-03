@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Southwest Candor Chasma Mosaic",
+    "LayerID": "Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat",
+    "Icon": "{MoonImage}\\Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat\\PSP_001918_1735_RED_A_01_ORTHO_longlat-120.png",
+    "BBOX": [
+        -76.9823817,
+        -6.5613214,
+        -76.8732883,
+        -6.3775787
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat\\MetaData.html"
+}

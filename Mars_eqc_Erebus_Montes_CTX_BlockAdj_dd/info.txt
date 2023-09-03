@@ -1,0 +1,9 @@
+MRO CTX, Erebus Montes Mosaic
+Layer ID:Mars_eqc_Erebus_Montes_CTX_BlockAdj_dd
+bbox:[-170.0774884, 37.3079786, -165.7225105, 40.6921376]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Erebus_Montes_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

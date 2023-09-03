@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Spirit Roving Site Mosaic",
+    "LayerID": "Mars_eqc_spirit_hirise_mosaic",
+    "Icon": "{MoonImage}\\Mars_eqc_spirit_hirise_mosaic\\spirit_hirise_mosaic-120.png",
+    "BBOX": [
+        175.4278511,
+        -14.6925026,
+        175.5858031,
+        -14.5357546
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_spirit_hirise_mosaic\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_spirit_hirise_mosaic\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_spirit_hirise_mosaic\\MetaData.html"
+}

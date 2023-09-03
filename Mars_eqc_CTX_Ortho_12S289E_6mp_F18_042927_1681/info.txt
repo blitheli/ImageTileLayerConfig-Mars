@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S289E_F18
+Layer ID:Mars_eqc_CTX_Ortho_12S289E_6mp_F18_042927_1681
+bbox:[-71.2983309, -12.5671666, -70.6923051, -11.0912249]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Ortho_12S289E_6mp_F18_042927_1681
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

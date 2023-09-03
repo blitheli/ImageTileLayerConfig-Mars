@@ -1,0 +1,9 @@
+MGS TES, Global Dust Index
+Layer ID:Mars_eqc_tes_ruffdust
+bbox:[-179.9879778, -89.9639494, 179.9541072, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/tes_ruffdust
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

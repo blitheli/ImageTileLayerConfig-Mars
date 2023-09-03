@@ -1,0 +1,9 @@
+MRO HiRISE, Sojourner Roving Site Mosaic
+Layer ID:Mars_eqc_sojourner_hirise_mosaic
+bbox:[-33.2879718, 19.0227898, -33.208734, 19.1598471]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/sojourner_hirise_mosaic
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

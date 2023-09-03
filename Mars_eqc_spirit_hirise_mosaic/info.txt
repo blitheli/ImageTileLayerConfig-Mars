@@ -1,0 +1,9 @@
+MRO HiRISE, Spirit Roving Site Mosaic
+Layer ID:Mars_eqc_spirit_hirise_mosaic
+bbox:[175.4278511, -14.6925026, 175.5858031, -14.5357546]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/spirit_hirise_mosaic
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

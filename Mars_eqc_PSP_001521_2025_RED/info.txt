@@ -1,0 +1,9 @@
+MRO HiRISE, Viking 1 Landing Site Mosaic
+Layer ID:Mars_eqc_PSP_001521_2025_RED
+bbox:[-48.0315109, 22.0911996, -47.8627669, 22.4608596]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/PSP_001521_2025_RED
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

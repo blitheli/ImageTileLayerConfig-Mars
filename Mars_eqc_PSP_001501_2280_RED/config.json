@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Viking 2 Landing Site Mosaic",
+    "LayerID": "Mars_eqc_PSP_001501_2280_RED",
+    "Icon": "{MoonImage}\\Mars_eqc_PSP_001501_2280_RED\\PSP_001501_2280_RED-120.png",
+    "BBOX": [
+        134.1990102,
+        47.5633533,
+        134.3996328,
+        47.7836251
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_PSP_001501_2280_RED\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_PSP_001501_2280_RED\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_PSP_001501_2280_RED\\MetaData.html"
+}

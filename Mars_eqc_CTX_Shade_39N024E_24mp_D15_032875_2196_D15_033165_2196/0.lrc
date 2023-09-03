@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_CTX_Shade_39N024E_24mp_D15_032875_2196_D15_033165_2196</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/CTX_Shade_39N024E_24mp_D15_032875_2196_D15_033165_2196/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>24.3177622</West>
+        <East>25.0890863</East>
+        <South>38.9133998</South>
+        <North>39.8725949</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>12</LevelEnd>
+    </Range>
+</DataDefine>

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Mosaic InSight",
+    "LayerID": "Mars_eqc_InSightCTXMosaic_112917",
+    "Icon": "{MoonImage}\\Mars_eqc_InSightCTXMosaic_112917\\InSightCTXMosaic_112917-120.png",
+    "BBOX": [
+        133.935732,
+        3.728413,
+        137.2761299,
+        5.0696168
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_InSightCTXMosaic_112917\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_InSightCTXMosaic_112917\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_InSightCTXMosaic_112917\\MetaData.html"
+}

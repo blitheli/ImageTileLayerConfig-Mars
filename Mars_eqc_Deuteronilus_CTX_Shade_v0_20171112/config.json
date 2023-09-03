@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Hilllshade Deuteronilus",
+    "LayerID": "Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112",
+    "Icon": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\Deuteronilus_CTX_Shade_v0_20171112-120.png",
+    "BBOX": [
+        21.4988866,
+        36.1945331,
+        25.0890863,
+        41.3929738
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\MetaData.html"
+}

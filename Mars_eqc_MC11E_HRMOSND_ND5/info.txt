@@ -1,0 +1,9 @@
+Mars Express HRSC, Martian Path MC11 Quad Mosaic
+Layer ID:Mars_eqc_MC11E_HRMOSND_ND5
+bbox:[-22.5000028, -0.0001054, 0.0001054, 30.0000389]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/MC11E_HRMOSND_ND5
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

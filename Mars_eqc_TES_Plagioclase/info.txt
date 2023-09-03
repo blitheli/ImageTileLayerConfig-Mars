@@ -1,0 +1,9 @@
+MGS TES, Global Plagioclase Abundance
+Layer ID:Mars_eqc_TES_Plagioclase
+bbox:[-180.0, -89.8749905, 179.874985, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/TES_Plagioclase
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

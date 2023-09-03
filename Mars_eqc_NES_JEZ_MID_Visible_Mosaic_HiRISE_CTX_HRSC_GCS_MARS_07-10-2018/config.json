@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Mosaic Jezero NE Syrtis Midway",
+    "LayerID": "Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018",
+    "Icon": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018-120.png",
+    "BBOX": [
+        76.7912789,
+        17.5791654,
+        77.7314417,
+        18.6926322
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\MetaData.html"
+}

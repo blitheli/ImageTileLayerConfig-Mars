@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_Huygens_CTX_BlockAdj_dd</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/Huygens_CTX_BlockAdj_dd/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>53.7314092</West>
+        <East>57.279212</East>
+        <South>-15.2204292</South>
+        <North>-11.7762119</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>13</LevelEnd>
+    </Range>
+</DataDefine>

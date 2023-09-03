@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Mosaic Coprates 11S293E
+Layer ID:Mars_eqc_CTX_Ortho_11S293E_24mp_B09_013231_1696
+bbox:[-67.6418298, -11.3224197, -67.1230587, -10.4704204]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Ortho_11S293E_24mp_B09_013231_1696
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, 22n048w Mosaic",
+    "LayerID": "Mars_eqc_b21_017819_2025_xn_22n048w",
+    "Icon": "{MoonImage}\\Mars_eqc_b21_017819_2025_xn_22n048w\\b21_017819_2025_xn_22n048w-120.png",
+    "BBOX": [
+        -48.2423413,
+        21.8892236,
+        -47.6367163,
+        22.6587236
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_b21_017819_2025_xn_22n048w\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_b21_017819_2025_xn_22n048w\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_b21_017819_2025_xn_22n048w\\MetaData.html"
+}

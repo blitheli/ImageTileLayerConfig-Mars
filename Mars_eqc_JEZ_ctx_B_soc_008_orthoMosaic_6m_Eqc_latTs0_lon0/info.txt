@@ -1,0 +1,18 @@
+MRO CTX, Jezero Mosaic, Controlled
+Layer ID:Mars_eqc_JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0
+bbox:[77.1604655, 18.2110274, 77.6991776, 18.7211945]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0
+Abstract :NaN
+NaN
+Projection:
+PROJCS["Equirectangular Mars 2000 Sphere IAU",
+	GEOGCS["GCS_Mars_2000_Sphere",
+		DATUM["Mars_2000_Sphere",SPHEROID["Mars_2000_Sphere_IAU",3396190,0]],
+		PRIMEM["Reference_Meridian",0],UNIT["degree",0.0174532925199433]],
+	PROJECTION["Equirectangular"],
+	PARAMETER["latitude_of_origin",0],
+	PARAMETER["central_meridian",0],
+	PARAMETER["standard_parallel_1",0],
+	PARAMETER["false_easting",0],
+	PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]
+

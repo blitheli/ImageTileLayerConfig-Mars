@@ -1,0 +1,9 @@
+MRO HiRISE, Curiosity Roving Site Mosaic
+Layer ID:Mars_eqc_curiosity_hirise_mosaic
+bbox:[137.1224669, -4.9254743, 137.7298129, -4.2489588]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/curiosity_hirise_mosaic
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

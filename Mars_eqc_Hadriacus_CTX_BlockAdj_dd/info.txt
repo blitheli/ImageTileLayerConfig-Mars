@@ -1,0 +1,9 @@
+MRO CTX, Hadriacus Mosaic
+Layer ID:Mars_eqc_Hadriacus_CTX_BlockAdj_dd
+bbox:[75.5853118, -28.5240883, 79.4329052, -25.0797866]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Hadriacus_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

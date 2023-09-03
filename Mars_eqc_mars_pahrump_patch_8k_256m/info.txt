@@ -1,0 +1,9 @@
+MSL, Pahrump Hills
+Layer ID:Mars_eqc_mars_pahrump_patch_8k_256m
+bbox:[137.3752976, -4.6651732, 137.3796184, -4.6608555]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/mars_pahrump_patch_8k_256m
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

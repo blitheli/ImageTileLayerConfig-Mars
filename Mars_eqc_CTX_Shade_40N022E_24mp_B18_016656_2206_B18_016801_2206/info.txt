@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, HillShade Deuteronius 40N024E
+Layer ID:Mars_eqc_CTX_Shade_40N022E_24mp_B18_016656_2206_B18_016801_2206
+bbox:[21.4988866, 39.2284077, 22.4625355, 41.3929738]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Shade_40N022E_24mp_B18_016656_2206_B18_016801_2206
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

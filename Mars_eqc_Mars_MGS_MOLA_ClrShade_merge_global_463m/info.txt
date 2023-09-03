@@ -1,0 +1,9 @@
+MGS MOLA, Global Color Hillshade
+Layer ID:Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m
+bbox:[-180.0, -89.9991635, 179.9983271, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_MOLA_ClrShade_merge_global_463m
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

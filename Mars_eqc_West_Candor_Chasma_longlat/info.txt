@@ -1,0 +1,9 @@
+MRO CTX, West Candor Chasma Mosaic
+Layer ID:Mars_eqc_West_Candor_Chasma_longlat
+bbox:[-77.591529, -7.4890436, -76.5878504, -3.9755598]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/West_Candor_Chasma_longlat
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

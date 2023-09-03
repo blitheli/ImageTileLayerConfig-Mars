@@ -1,0 +1,9 @@
+MRO CTX, Huygens Crater Mosaic
+Layer ID:Mars_eqc_Huygens_CTX_BlockAdj_dd
+bbox:[53.7314092, -15.2204292, 57.279212, -11.7762119]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Huygens_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,9 @@
+MRO HiRISE, Martian Ares 4 Landing Site Mosaic
+Layer ID:Mars_eqc_ESP_042647_1760_RED_B_01_ORTHO
+bbox:[15.1514729, -4.1212243, 15.259779, -3.8131537]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/ESP_042647_1760_RED_B_01_ORTHO
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

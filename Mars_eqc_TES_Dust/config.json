@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS TES, Global Dust",
+    "LayerID": "Mars_eqc_TES_Dust",
+    "Icon": "{MoonImage}\\Mars_eqc_TES_Dust\\TES_Dust-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_TES_Dust\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Dust\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_TES_Dust\\MetaData.html"
+}

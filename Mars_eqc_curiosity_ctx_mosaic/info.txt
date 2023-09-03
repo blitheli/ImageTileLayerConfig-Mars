@@ -1,0 +1,9 @@
+MRO CTX, Curiosity Roving Site Mosaic
+Layer ID:Mars_eqc_curiosity_ctx_mosaic
+bbox:[136.2768326, -7.2137273, 139.3864225, -3.5804738]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/curiosity_ctx_mosaic
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

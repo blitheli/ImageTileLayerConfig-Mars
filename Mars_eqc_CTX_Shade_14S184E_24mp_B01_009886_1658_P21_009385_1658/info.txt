@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, HillShade Apollinaris 14S184E
+Layer ID:Mars_eqc_CTX_Shade_14S184E_24mp_B01_009886_1658_P21_009385_1658
+bbox:[175.5531523, -14.641998, 176.126078, -13.5661932]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Shade_14S184E_24mp_B01_009886_1658_P21_009385_1658
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

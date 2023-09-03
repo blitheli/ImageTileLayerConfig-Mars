@@ -1,0 +1,9 @@
+MRO CTX, Jezero Mosaic, Preliminary
+Layer ID:Mars_eqc_Jezero_CTX_BlockAdj_dd
+bbox:[75.1537692, 15.9058484, 78.8717121, 19.4453003]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Jezero_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/PSP_001918_1735_RED_A_01_ORTHO_longlat/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>-76.9823817</West>
+        <East>-76.8732883</East>
+        <South>-6.5613214</South>
+        <North>-6.3775787</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>17</LevelEnd>
+    </Range>
+</DataDefine>

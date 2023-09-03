@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS TES, Global Dust Index",
+    "LayerID": "Mars_eqc_tes_ruffdust",
+    "Icon": "{MoonImage}\\Mars_eqc_tes_ruffdust\\tes_ruffdust-120.png",
+    "BBOX": [
+        -179.9879778,
+        -89.9639494,
+        179.9541072,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_tes_ruffdust\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_tes_ruffdust\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_tes_ruffdust\\MetaData.html"
+}

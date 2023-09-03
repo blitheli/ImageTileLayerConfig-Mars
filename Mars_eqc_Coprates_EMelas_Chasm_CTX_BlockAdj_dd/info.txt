@@ -1,0 +1,9 @@
+MRO CTX, Coprates EMelas Chasm Mosaic
+Layer ID:Mars_eqc_Coprates_EMelas_Chasm_CTX_BlockAdj_dd
+bbox:[-71.7280511, -13.3920212, -64.8714999, -10.0078622]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Coprates_EMelas_Chasm_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

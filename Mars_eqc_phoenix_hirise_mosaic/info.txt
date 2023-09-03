@@ -1,0 +1,9 @@
+MRO HiRISE, Phoenix Landing Site Mosaic
+Layer ID:Mars_eqc_phoenix_hirise_mosaic
+bbox:[-125.8898226, 68.165978, -125.6607922, 68.2499439]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/phoenix_hirise_mosaic
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

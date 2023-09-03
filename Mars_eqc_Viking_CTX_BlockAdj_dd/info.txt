@@ -1,0 +1,9 @@
+MRO CTX, Viking 1 Landing Site Mosaic
+Layer ID:Mars_eqc_Viking_CTX_BlockAdj_dd
+bbox:[-50.1289484, 20.6079779, -46.4710639, 23.9921368]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Viking_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

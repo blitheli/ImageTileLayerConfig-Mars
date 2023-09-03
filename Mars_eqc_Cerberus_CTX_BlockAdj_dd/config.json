@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Cerberus Mosaic",
+    "LayerID": "Mars_eqc_Cerberus_CTX_BlockAdj_dd",
+    "Icon": "{MoonImage}\\Mars_eqc_Cerberus_CTX_BlockAdj_dd\\Cerberus_CTX_BlockAdj_dd-120.png",
+    "BBOX": [
+        160.1914394,
+        8.2036983,
+        163.8111954,
+        11.7431501
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_Cerberus_CTX_BlockAdj_dd\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Cerberus_CTX_BlockAdj_dd\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_Cerberus_CTX_BlockAdj_dd\\MetaData.html"
+}

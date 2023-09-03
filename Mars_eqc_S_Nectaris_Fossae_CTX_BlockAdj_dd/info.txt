@@ -1,0 +1,9 @@
+MRO CTX, Southern Nectaris Fossae Mosaic
+Layer ID:Mars_eqc_S_Nectaris_Fossae_CTX_BlockAdj_dd
+bbox:[-61.6328714, -30.592021, -57.767141, -27.207862]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/S_Nectaris_Fossae_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

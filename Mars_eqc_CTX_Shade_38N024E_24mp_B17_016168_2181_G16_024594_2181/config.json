@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, HillShade Deuteronius 38N024E",
+    "LayerID": "Mars_eqc_CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181\\CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181-120.png",
+    "BBOX": [
+        23.4172768,
+        36.8443888,
+        24.2942783,
+        38.708928
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181\\MetaData.html"
+}

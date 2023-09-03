@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MO THEMIS-IR Day, Global Mosaic",
+    "LayerID": "Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018",
+    "Icon": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018-120.png",
+    "BBOX": [
+        -179.9999997,
+        -65.0006576,
+        179.9998849,
+        65.0007535
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\MetaData.html"
+}

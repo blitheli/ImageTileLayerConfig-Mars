@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Mosaic Olympus Mons",
+    "LayerID": "Mars_eqc_olympus_mons.eq",
+    "Icon": "{MoonImage}\\Mars_eqc_olympus_mons.eq\\olympus_mons.eq-120.png",
+    "BBOX": [
+        -136.0,
+        12.0,
+        -124.0,
+        24.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_olympus_mons.eq\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_olympus_mons.eq\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_olympus_mons.eq\\MetaData.html"
+}

@@ -1,0 +1,9 @@
+MRO HiRISE, Columbia Hills Mosaic
+Layer ID:Mars_eqc_HiRISE_ColumbiaHills
+bbox:[175.3183393, -14.847288, 175.7967313, -14.250304]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/HiRISE_ColumbiaHills
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

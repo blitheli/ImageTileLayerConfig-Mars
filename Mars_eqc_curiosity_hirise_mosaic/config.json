@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Curiosity Roving Site Mosaic",
+    "LayerID": "Mars_eqc_curiosity_hirise_mosaic",
+    "Icon": "{MoonImage}\\Mars_eqc_curiosity_hirise_mosaic\\curiosity_hirise_mosaic-120.png",
+    "BBOX": [
+        137.1224669,
+        -4.9254743,
+        137.7298129,
+        -4.2489588
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_curiosity_hirise_mosaic\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_curiosity_hirise_mosaic\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_curiosity_hirise_mosaic\\MetaData.html"
+}

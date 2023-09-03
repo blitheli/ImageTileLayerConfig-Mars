@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Color Slope Apollinaris 12S182E",
+    "LayerID": "Mars_eqc_CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675\\CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675-120.png",
+    "BBOX": [
+        177.7855382,
+        -12.9379994,
+        178.3438877,
+        -11.9650379
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675\\MetaData.html"
+}

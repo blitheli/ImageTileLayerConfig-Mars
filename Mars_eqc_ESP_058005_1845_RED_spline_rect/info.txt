@@ -1,0 +1,9 @@
+MRO HiRISE, Mosaic Insight Landing Site
+Layer ID:Mars_eqc_ESP_058005_1845_RED_spline_rect
+bbox:[135.5687727, 4.3304903, 135.6963018, 4.6680121]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/ESP_058005_1845_RED_spline_rect
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

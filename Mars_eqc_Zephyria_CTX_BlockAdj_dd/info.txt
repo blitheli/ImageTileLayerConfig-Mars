@@ -1,0 +1,9 @@
+MRO CTX, Zephyria Planum Mosaic
+Layer ID:Mars_eqc_Zephyria_CTX_BlockAdj_dd
+bbox:[155.3902904, -3.1240146, 158.821433, 0.3024043]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Zephyria_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

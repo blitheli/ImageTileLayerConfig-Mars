@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Express HRSC, Viking 1 Landing Site Mosaic",
+    "LayerID": "Mars_eqc_h2942_0000_nd3",
+    "Icon": "{MoonImage}\\Mars_eqc_h2942_0000_nd3\\h2942_0000_nd3-120.png",
+    "BBOX": [
+        -49.5924103,
+        14.0680405,
+        -46.3979178,
+        26.8116326
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_h2942_0000_nd3\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_h2942_0000_nd3\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_h2942_0000_nd3\\MetaData.html"
+}

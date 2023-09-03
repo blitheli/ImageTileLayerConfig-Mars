@@ -1,0 +1,9 @@
+MGS TES, Global Thermal Inertia
+Layer ID:Mars_eqc_TES_Thermal_Inertia
+bbox:[-180.0, -90.0, 180.0, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/TES_Thermal_Inertia
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

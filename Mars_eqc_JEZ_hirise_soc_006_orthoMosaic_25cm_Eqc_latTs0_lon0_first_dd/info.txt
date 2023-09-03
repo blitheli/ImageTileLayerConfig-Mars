@@ -1,0 +1,11 @@
+MRO HiRISE, Jezero Mosaic, Controlled
+Layer ID:Mars_eqc_JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd
+bbox:[77.2229331, 18.3067994, 77.583964, 18.669315]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd
+Abstract :NaN
+NaN
+Projection:
+GEOGCS["unnamed ellipse",
+	DATUM["unknown",SPHEROID["unnamed",3396190,0]],
+	PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]]
+

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS TES, Global Thermal Inertia",
+    "LayerID": "Mars_eqc_TES_Thermal_Inertia",
+    "Icon": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\TES_Thermal_Inertia-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\MetaData.html"
+}

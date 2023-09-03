@@ -1,0 +1,9 @@
+MRO CTX, Aram Chaos Mosaic
+Layer ID:Mars_eqc_Aram_Chaos_CTX_BlockAdj_dd
+bbox:[-21.6935908, 0.7079787, -18.3063952, 4.0921377]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Aram_Chaos_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

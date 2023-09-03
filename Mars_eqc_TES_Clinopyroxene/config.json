@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS TES, Global High-Ca Pyroxene Abundance",
+    "LayerID": "Mars_eqc_TES_Clinopyroxene",
+    "Icon": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\TES_Clinopyroxene-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\MetaData.html"
+}

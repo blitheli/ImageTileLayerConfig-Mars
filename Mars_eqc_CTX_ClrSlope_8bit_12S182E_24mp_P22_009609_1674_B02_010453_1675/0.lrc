@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>177.7855382</West>
+        <East>178.3438877</East>
+        <South>-12.9379994</South>
+        <North>-11.9650379</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>12</LevelEnd>
+    </Range>
+</DataDefine>

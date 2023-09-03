@@ -1,0 +1,9 @@
+MRO CTX, McLaughlin Crater Mosaic
+Layer ID:Mars_eqc_McLaughlin_Crater_CTX_BlockAdj_dd
+bbox:[-24.223774, 20.2079782, -20.5761806, 23.5921372]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/McLaughlin_Crater_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

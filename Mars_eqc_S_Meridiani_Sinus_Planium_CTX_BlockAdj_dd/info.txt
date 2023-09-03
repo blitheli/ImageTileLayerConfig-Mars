@@ -1,0 +1,9 @@
+MRO CTX, Meridiani Planum - Sinus Meridiani Mosaic
+Layer ID:Mars_eqc_S_Meridiani_Sinus_Planium_CTX_BlockAdj_dd
+bbox:[-8.093484, -4.8925742, -2.8037058, -0.6078623]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/S_Meridiani_Sinus_Planium_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

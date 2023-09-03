@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS MOLA, Global Color Hillshade",
+    "LayerID": "Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m",
+    "Icon": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\Mars_MGS_MOLA_ClrShade_merge_global_463m-120.png",
+    "BBOX": [
+        -180.0,
+        -89.9991635,
+        179.9983271,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\MetaData.html"
+}

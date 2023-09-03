@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Mosaic Columbia Hills",
+    "LayerID": "Mars_eqc_CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018",
+    "Icon": "{MoonImage}\\Mars_eqc_CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018-120.png",
+    "BBOX": [
+        175.1752978,
+        -14.8276616,
+        175.6980715,
+        -14.3215408
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\MetaData.html"
+}

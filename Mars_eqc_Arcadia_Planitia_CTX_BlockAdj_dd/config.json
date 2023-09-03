@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Arcadia Planitia Mosaic",
+    "LayerID": "Mars_eqc_Arcadia_Planitia_CTX_BlockAdj_dd",
+    "Icon": "{MoonImage}\\Mars_eqc_Arcadia_Planitia_CTX_BlockAdj_dd\\Arcadia_Planitia_CTX_BlockAdj_dd-120.png",
+    "BBOX": [
+        -173.645143,
+        44.5079794,
+        -168.7548608,
+        47.8921384
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_Arcadia_Planitia_CTX_BlockAdj_dd\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Arcadia_Planitia_CTX_BlockAdj_dd\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_Arcadia_Planitia_CTX_BlockAdj_dd\\MetaData.html"
+}

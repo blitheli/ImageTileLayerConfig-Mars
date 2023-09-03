@@ -1,0 +1,9 @@
+MGS MOC Atlas, Global Color Mosaic
+Layer ID:Mars_eqc_msss_atlas_simp_clon
+bbox:[-179.9999885, -89.9999958, 179.9999862, 89.9999916]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/msss_atlas_simp_clon
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

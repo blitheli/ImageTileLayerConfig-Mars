@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Mosaic Apollinaris 14S184E
+Layer ID:Mars_eqc_CTX_Ortho_14S184E_24mp_B01_009886_1658
+bbox:[175.5597824, -14.6387082, 176.1214723, -13.5707989]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Ortho_14S184E_24mp_B01_009886_1658
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

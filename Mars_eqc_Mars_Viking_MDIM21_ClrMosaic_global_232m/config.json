@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Viking VIS, Global Color Mosaic",
+    "LayerID": "Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m",
+    "Icon": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\Mars_Viking_MDIM21_ClrMosaic_global_232m-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "",
+    "Preview": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\MetaData.html"
+}

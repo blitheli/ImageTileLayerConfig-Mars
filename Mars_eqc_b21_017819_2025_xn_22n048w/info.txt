@@ -1,0 +1,9 @@
+MRO CTX, 22n048w Mosaic
+Layer ID:Mars_eqc_b21_017819_2025_xn_22n048w
+bbox:[-48.2423413, 21.8892236, -47.6367163, 22.6587236]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/b21_017819_2025_xn_22n048w
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

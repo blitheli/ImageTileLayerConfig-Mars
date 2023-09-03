@@ -1,0 +1,9 @@
+MRO CTX, Hypanis Delta Mosaic
+Layer ID:Mars_eqc_Hypanis_Delta_CTX_BlockAdj_dd
+bbox:[-47.0279725, 10.0079784, -43.5720291, 13.3921374]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Hypanis_Delta_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

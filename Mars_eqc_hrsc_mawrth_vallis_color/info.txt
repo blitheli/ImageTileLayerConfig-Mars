@@ -1,0 +1,9 @@
+Mars Express HRSC, Mawrth Vallis Color Mosaic
+Layer ID:Mars_eqc_hrsc_mawrth_vallis_color
+bbox:[-22.0, 20.9997983, -16.4998151, 27.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/hrsc_mawrth_vallis_color
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

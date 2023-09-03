@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S291E_J01
+Layer ID:Mars_eqc_CTX_Shade_12S291E_24mp_J01_045116_1677_J03_046039_1676
+bbox:[-69.6910515, -12.86856, -69.0845196, -11.5870688]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Shade_12S291E_24mp_J01_045116_1677_J03_046039_1676
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

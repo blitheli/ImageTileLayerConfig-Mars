@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Curiosity Roving Site Mosaic",
+    "LayerID": "Mars_eqc_curiosity_ctx_mosaic",
+    "Icon": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\curiosity_ctx_mosaic-120.png",
+    "BBOX": [
+        136.2768326,
+        -7.2137273,
+        139.3864225,
+        -3.5804738
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\MetaData.html"
+}

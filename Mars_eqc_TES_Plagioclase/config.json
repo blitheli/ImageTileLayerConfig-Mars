@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS TES, Global Plagioclase Abundance",
+    "LayerID": "Mars_eqc_TES_Plagioclase",
+    "Icon": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\TES_Plagioclase-120.png",
+    "BBOX": [
+        -180.0,
+        -89.8749905,
+        179.874985,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\MetaData.html"
+}

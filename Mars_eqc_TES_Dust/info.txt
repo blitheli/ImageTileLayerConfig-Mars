@@ -1,0 +1,9 @@
+MGS TES, Global Dust
+Layer ID:Mars_eqc_TES_Dust
+bbox:[-180.0, -90.0, 180.0, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/TES_Dust
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MSL, Pahrump Hills",
+    "LayerID": "Mars_eqc_mars_pahrump_patch_8k_256m",
+    "Icon": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\mars_pahrump_patch_8k_256m-120.png",
+    "BBOX": [
+        137.3752976,
+        -4.6651732,
+        137.3796184,
+        -4.6608555
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\MetaData.html"
+}

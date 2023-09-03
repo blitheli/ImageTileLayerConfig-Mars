@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Express HRSC, Mawrth Vallis Color Mosaic",
+    "LayerID": "Mars_eqc_hrsc_mawrth_vallis_color",
+    "Icon": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis_color\\hrsc_mawrth_vallis_color-120.png",
+    "BBOX": [
+        -22.0,
+        20.9997983,
+        -16.4998151,
+        27.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis_color\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis_color\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis_color\\MetaData.html"
+}

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Mosaic Global Uncontrolled (Caltech)",
+    "LayerID": "Mars_eqc_CTX_beta01_uncontrolled_5m_Caltech",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_beta01_uncontrolled_5m_Caltech\\CTX_beta01_uncontrolled_5m_Caltech-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_beta01_uncontrolled_5m_Caltech\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_beta01_uncontrolled_5m_Caltech\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_beta01_uncontrolled_5m_Caltech\\MetaData.html"
+}

@@ -1,0 +1,9 @@
+MRO HiRISE, Mosaic Opportunity
+Layer ID:Mars_eqc_HiRISE_Opportunity
+bbox:[-5.6179114, -2.8342616, -4.9306494, -1.8895077]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/HiRISE_Opportunity
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

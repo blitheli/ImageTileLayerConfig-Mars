@@ -1,0 +1,9 @@
+MRO CTX, Equatorial Valles Marineries Mosaic
+Layer ID:Mars_eqc_SE_Marineris_CTX_BlockAdj_dd
+bbox:[-50.9875215, -20.4920206, -47.4124717, -17.1078616]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/SE_Marineris_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

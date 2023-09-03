@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/ESP_040776_2115_RED_A_01_ORTHO/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>-28.692987</West>
+        <East>-28.5529717</East>
+        <South>31.2391925</South>
+        <North>31.5262331</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>17</LevelEnd>
+    </Range>
+</DataDefine>

@@ -1,0 +1,9 @@
+MRO HiRISE, Southwest Candor Chasma Mosaic
+Layer ID:Mars_eqc_PSP_001918_1735_RED_A_01_ORTHO_longlat
+bbox:[-76.9823817, -6.5613214, -76.8732883, -6.3775787]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/PSP_001918_1735_RED_A_01_ORTHO_longlat
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

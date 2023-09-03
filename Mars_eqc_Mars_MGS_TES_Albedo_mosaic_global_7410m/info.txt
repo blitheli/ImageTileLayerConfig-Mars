@@ -1,0 +1,9 @@
+MGS TES, Global Surface Albedo
+Layer ID:Mars_eqc_Mars_MGS_TES_Albedo_mosaic_global_7410m
+bbox:[-180.0, -90.0, 180.0, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Mars_MGS_TES_Albedo_mosaic_global_7410m
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

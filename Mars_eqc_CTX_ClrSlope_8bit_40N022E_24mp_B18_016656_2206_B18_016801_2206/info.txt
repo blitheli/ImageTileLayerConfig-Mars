@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Color Slope Deuteronius 40N024E
+Layer ID:Mars_eqc_CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206
+bbox:[21.4986841, 39.2286101, 22.4623331, 41.3931762]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

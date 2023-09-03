@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S289E_D01",
+    "LayerID": "Mars_eqc_CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677\\CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677-120.png",
+    "BBOX": [
+        -71.9531972,
+        -14.8322984,
+        -70.8636261,
+        -9.5496396
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677\\MetaData.html"
+}

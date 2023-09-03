@@ -1,0 +1,7 @@
+Viking VIS, Global Color Mosaic
+Layer ID:Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m
+bbox:[-180.0, -90.0, 180.0, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Mars_Viking_MDIM21_ClrMosaic_global_232m
+Abstract :NaN
+NaN
+Projection:

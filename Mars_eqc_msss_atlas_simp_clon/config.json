@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS MOC Atlas, Global Color Mosaic",
+    "LayerID": "Mars_eqc_msss_atlas_simp_clon",
+    "Icon": "{MoonImage}\\Mars_eqc_msss_atlas_simp_clon\\msss_atlas_simp_clon-120.png",
+    "BBOX": [
+        -179.9999885,
+        -89.9999958,
+        179.9999862,
+        89.9999916
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_msss_atlas_simp_clon\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_msss_atlas_simp_clon\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_msss_atlas_simp_clon\\MetaData.html"
+}

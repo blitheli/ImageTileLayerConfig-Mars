@@ -1,0 +1,9 @@
+MRO CTX, Hale Crater Mosaic
+Layer ID:Mars_eqc_Hale_Crater_CTX_BlockAdj_dd
+bbox:[-38.3864506, -37.4920206, -34.2135065, -34.1078616]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Hale_Crater_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

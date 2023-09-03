@@ -1,0 +1,9 @@
+MRO CTX, Deuteronilus Mensae Mosaic
+Layer ID:Mars_eqc_Deuteronilus1_2_CTX_BlockAdj_dd
+bbox:[19.405687, 37.2289685, 25.7660719, 42.8254527]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Deuteronilus1_2_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

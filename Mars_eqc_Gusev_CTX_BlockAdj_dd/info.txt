@@ -1,0 +1,9 @@
+MRO CTX, Gusev Crater Mosaic
+Layer ID:Mars_eqc_Gusev_CTX_BlockAdj_dd
+bbox:[173.2463549, -16.2218451, 178.4633349, -10.9930557]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Gusev_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

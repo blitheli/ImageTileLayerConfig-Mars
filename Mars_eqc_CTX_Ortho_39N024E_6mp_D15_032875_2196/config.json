@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Mosaic Deuteronius 39N024E",
+    "LayerID": "Mars_eqc_CTX_Ortho_39N024E_6mp_D15_032875_2196",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Ortho_39N024E_6mp_D15_032875_2196\\CTX_Ortho_39N024E_6mp_D15_032875_2196-120.png",
+    "BBOX": [
+        24.3257083,
+        38.9184103,
+        25.0835696,
+        39.8677867
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Ortho_39N024E_6mp_D15_032875_2196\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Ortho_39N024E_6mp_D15_032875_2196\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Ortho_39N024E_6mp_D15_032875_2196\\MetaData.html"
+}

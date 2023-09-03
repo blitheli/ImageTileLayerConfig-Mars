@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Martian Ares 3 Landing Site Mosaic",
+    "LayerID": "Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO",
+    "Icon": "{MoonImage}\\Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO\\ESP_040776_2115_RED_A_01_ORTHO-120.png",
+    "BBOX": [
+        -28.692987,
+        31.2391925,
+        -28.5529717,
+        31.5262331
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO\\MetaData.html"
+}

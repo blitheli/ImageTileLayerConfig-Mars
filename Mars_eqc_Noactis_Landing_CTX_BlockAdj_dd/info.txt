@@ -1,0 +1,9 @@
+MRO CTX, Noctis Landing Mosaic
+Layer ID:Mars_eqc_Noactis_Landing_CTX_BlockAdj_dd
+bbox:[-94.2030863, -8.1920214, -90.7969111, -4.8078624]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Noactis_Landing_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

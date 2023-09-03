@@ -1,0 +1,9 @@
+Mars Express HRSC, Martian Path Eastern Section Color Mosaic
+Layer ID:Mars_eqc_HRSC_Martian_east
+bbox:[-0.2681202, -4.0069693, 16.6967375, 4.1069798]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/HRSC_Martian_east
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Mosaic Deuteronius 40N024E
+Layer ID:Mars_eqc_CTX_Ortho_40N022E_6mp_B18_016656_2206
+bbox:[21.5066302, 39.2322036, 22.457525, 41.3428175]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_Ortho_40N022E_6mp_B18_016656_2206
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

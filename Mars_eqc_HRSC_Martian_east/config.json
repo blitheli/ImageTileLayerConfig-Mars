@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Express HRSC, Martian Path Eastern Section Color Mosaic",
+    "LayerID": "Mars_eqc_HRSC_Martian_east",
+    "Icon": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\HRSC_Martian_east-120.png",
+    "BBOX": [
+        -0.2681202,
+        -4.0069693,
+        16.6967375,
+        4.1069798
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\MetaData.html"
+}

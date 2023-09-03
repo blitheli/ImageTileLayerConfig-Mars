@@ -1,0 +1,9 @@
+MRO CTX, Copernicus Crater Mosaic
+Layer ID:Mars_eqc_Copernicus_Crater_CTX_BlockAdj_dd
+bbox:[-171.7900514, -50.8920221, -166.6099322, -47.5078632]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Copernicus_Crater_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

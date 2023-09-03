@@ -1,0 +1,9 @@
+MRO CTX, Eastern Valles Marineris Mosaic
+Layer ID:Mars_eqc_NE_Marineris_Crater_CTX_BlockAdj_dd
+bbox:[-36.8964858, -5.7920213, -33.5035541, -2.4078623]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/NE_Marineris_Crater_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

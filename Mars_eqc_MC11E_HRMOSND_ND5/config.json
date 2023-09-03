@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Express HRSC, Martian Path MC11 Quad Mosaic",
+    "LayerID": "Mars_eqc_MC11E_HRMOSND_ND5",
+    "Icon": "{MoonImage}\\Mars_eqc_MC11E_HRMOSND_ND5\\MC11E_HRMOSND_ND5-120.png",
+    "BBOX": [
+        -22.5000028,
+        -0.0001054,
+        0.0001054,
+        30.0000389
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_MC11E_HRMOSND_ND5\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_MC11E_HRMOSND_ND5\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_MC11E_HRMOSND_ND5\\MetaData.html"
+}

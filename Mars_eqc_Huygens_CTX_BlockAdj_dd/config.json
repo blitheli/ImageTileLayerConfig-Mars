@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, Huygens Crater Mosaic",
+    "LayerID": "Mars_eqc_Huygens_CTX_BlockAdj_dd",
+    "Icon": "{MoonImage}\\Mars_eqc_Huygens_CTX_BlockAdj_dd\\Huygens_CTX_BlockAdj_dd-120.png",
+    "BBOX": [
+        53.7314092,
+        -15.2204292,
+        57.279212,
+        -11.7762119
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_Huygens_CTX_BlockAdj_dd\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Huygens_CTX_BlockAdj_dd\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_Huygens_CTX_BlockAdj_dd\\MetaData.html"
+}

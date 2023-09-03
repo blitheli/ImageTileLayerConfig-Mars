@@ -1,0 +1,9 @@
+MRO HiRISE, Marth Crater West Rim Mosaic
+Layer ID:Mars_eqc_ESP_042252_1930_RED_B_01_ORTHO
+bbox:[-4.3189165, 12.4509362, -4.1936811, 12.8286463]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/ESP_042252_1930_RED_B_01_ORTHO
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

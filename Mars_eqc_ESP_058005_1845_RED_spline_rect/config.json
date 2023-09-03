@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Mosaic Insight Landing Site",
+    "LayerID": "Mars_eqc_ESP_058005_1845_RED_spline_rect",
+    "Icon": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\ESP_058005_1845_RED_spline_rect-120.png",
+    "BBOX": [
+        135.5687727,
+        4.3304903,
+        135.6963018,
+        4.6680121
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\MetaData.html"
+}

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, HillShade Coprates 11S293E",
+    "LayerID": "Mars_eqc_CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690\\CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690-120.png",
+    "BBOX": [
+        -67.6455244,
+        -11.329151,
+        -67.1195665,
+        -10.4622719
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690\\MetaData.html"
+}

@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Color Slope Apollinaris 14S184E
+Layer ID:Mars_eqc_CTX_ClrSlope_8bit_14S184E_24mp_B01_009886_1658_P21_009385_1658
+bbox:[175.5529498, -14.6417955, 176.1258756, -13.5659908]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_ClrSlope_8bit_14S184E_24mp_B01_009886_1658_P21_009385_1658
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

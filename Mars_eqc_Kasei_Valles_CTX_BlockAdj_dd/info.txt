@@ -1,0 +1,9 @@
+MRO CTX, Kasei Valles Mosaic
+Layer ID:Mars_eqc_Kasei_Valles_CTX_BlockAdj_dd
+bbox:[-74.4641069, 23.1079779, -70.7358719, 26.4921368]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Kasei_Valles_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

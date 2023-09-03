@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_CTX_Ortho_12S289E_6mp_D01_027446_1678</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/CTX_Ortho_12S289E_6mp_D01_027446_1678/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>-71.9431255</West>
+        <East>-70.8764308</East>
+        <South>-14.820607</South>
+        <North>-9.558193</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>8</LevelEnd>
+    </Range>
+</DataDefine>

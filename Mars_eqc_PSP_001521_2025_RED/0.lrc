@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_PSP_001521_2025_RED</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/PSP_001521_2025_RED/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>-48.0315109</West>
+        <East>-47.8627669</East>
+        <South>22.0911996</South>
+        <North>22.4608596</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>18</LevelEnd>
+    </Range>
+</DataDefine>

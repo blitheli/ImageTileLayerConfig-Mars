@@ -1,0 +1,9 @@
+MRO CTX, Acidalia Plantia Mosaic
+Layer ID:Mars_eqc_Acidalia_Plantia_CTX_BlockAdj_dd
+bbox:[-41.800754, 18.3079786, -38.1992173, 21.6921376]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Acidalia_Plantia_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

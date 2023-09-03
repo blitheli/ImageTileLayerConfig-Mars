@@ -1,0 +1,9 @@
+MRO CTX, Arcadia Mosaic
+Layer ID:Mars_eqc_Arcadia_CTX_BlockAdj_dd
+bbox:[169.6807093, 37.0237318, 174.3355609, 40.8666014]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Arcadia_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

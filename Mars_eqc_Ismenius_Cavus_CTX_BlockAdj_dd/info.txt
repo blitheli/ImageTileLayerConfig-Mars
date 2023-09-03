@@ -1,0 +1,9 @@
+MRO CTX, Ismenius Cavus Mosaic
+Layer ID:Mars_eqc_Ismenius_Cavus_CTX_BlockAdj_dd
+bbox:[15.1635869, 32.1079779, 19.236404, 35.4921368]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Ismenius_Cavus_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

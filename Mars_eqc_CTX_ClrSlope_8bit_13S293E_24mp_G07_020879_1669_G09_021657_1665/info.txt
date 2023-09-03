@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Color Slope Coprates 13S293E
+Layer ID:Mars_eqc_CTX_ClrSlope_8bit_13S293E_24mp_G07_020879_1669_G09_021657_1665
+bbox:[-66.8484896, -13.9405182, -66.221308, -12.1541236]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_ClrSlope_8bit_13S293E_24mp_G07_020879_1669_G09_021657_1665
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

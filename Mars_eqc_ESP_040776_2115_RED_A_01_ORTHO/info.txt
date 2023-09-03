@@ -1,0 +1,9 @@
+MRO HiRISE, Martian Ares 3 Landing Site Mosaic
+Layer ID:Mars_eqc_ESP_040776_2115_RED_A_01_ORTHO
+bbox:[-28.692987, 31.2391925, -28.5529717, 31.5262331]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/ESP_040776_2115_RED_A_01_ORTHO
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

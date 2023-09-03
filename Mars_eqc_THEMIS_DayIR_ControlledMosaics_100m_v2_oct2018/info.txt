@@ -1,0 +1,9 @@
+MO THEMIS-IR Day, Global Mosaic
+Layer ID:Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018
+bbox:[-179.9999997, -65.0006576, 179.9998849, 65.0007535]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,9 @@
+MRO CTX, Viking 2 Landing Site Mosaic
+Layer ID:Mars_eqc_b16_015887_2280_xn_48n225w
+bbox:[133.7852899, 46.3960605, 135.0173759, 48.9848625]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/b16_015887_2280_xn_48n225w
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Color Slope East Melas 16S291E_D22",
+    "LayerID": "Mars_eqc_CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644\\CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644-120.png",
+    "BBOX": [
+        -69.5815276,
+        -18.132796,
+        -68.5409487,
+        -12.8675477
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644\\MetaData.html"
+}

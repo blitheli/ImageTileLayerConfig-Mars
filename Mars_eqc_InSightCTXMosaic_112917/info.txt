@@ -1,0 +1,9 @@
+MRO CTX, Mosaic InSight
+Layer ID:Mars_eqc_InSightCTXMosaic_112917
+bbox:[133.935732, 3.728413, 137.2761299, 5.0696168]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/InSightCTXMosaic_112917
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

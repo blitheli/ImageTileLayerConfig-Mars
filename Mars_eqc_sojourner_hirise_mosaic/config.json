@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Sojourner Roving Site Mosaic",
+    "LayerID": "Mars_eqc_sojourner_hirise_mosaic",
+    "Icon": "{MoonImage}\\Mars_eqc_sojourner_hirise_mosaic\\sojourner_hirise_mosaic-120.png",
+    "BBOX": [
+        -33.2879718,
+        19.0227898,
+        -33.208734,
+        19.1598471
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_sojourner_hirise_mosaic\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_sojourner_hirise_mosaic\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_sojourner_hirise_mosaic\\MetaData.html"
+}

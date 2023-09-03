@@ -1,0 +1,9 @@
+MRO CTX, Acheron Fossae Mosaic
+Layer ID:Mars_eqc_Acheron_Fossae_CTX_BlockAdj_dd
+bbox:[-141.6026047, 38.1079779, -137.1973524, 41.4921368]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Acheron_Fossae_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

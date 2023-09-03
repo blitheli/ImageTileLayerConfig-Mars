@@ -1,0 +1,9 @@
+MRO CTX, Hellas Eastern Rim Mosaic
+Layer ID:Mars_eqc_Hellas_Hellas2_CTX_BlockAdj_dd
+bbox:[99.6625132, -41.8075384, 106.2773911, -37.3150663]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Hellas_Hellas2_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

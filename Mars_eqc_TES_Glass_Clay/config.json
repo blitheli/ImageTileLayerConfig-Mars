@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS TES, Global Sheet Silicates/High-Si Glass",
+    "LayerID": "Mars_eqc_TES_Glass_Clay",
+    "Icon": "{MoonImage}\\Mars_eqc_TES_Glass_Clay\\TES_Glass_Clay-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_TES_Glass_Clay\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Glass_Clay\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_TES_Glass_Clay\\MetaData.html"
+}

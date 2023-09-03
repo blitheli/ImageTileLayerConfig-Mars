@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, West Candor Chasma Mosaic",
+    "LayerID": "Mars_eqc_West_Candor_Chasma_longlat",
+    "Icon": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\West_Candor_Chasma_longlat-120.png",
+    "BBOX": [
+        -77.591529,
+        -7.4890436,
+        -76.5878504,
+        -3.9755598
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\MetaData.html"
+}

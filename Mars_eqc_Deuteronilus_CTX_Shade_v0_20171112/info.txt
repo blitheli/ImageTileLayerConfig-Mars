@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Hilllshade Deuteronilus
+Layer ID:Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112
+bbox:[21.4988866, 36.1945331, 25.0890863, 41.3929738]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Deuteronilus_CTX_Shade_v0_20171112
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

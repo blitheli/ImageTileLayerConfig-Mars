@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO HiRISE, Marth Crater West Rim Mosaic",
+    "LayerID": "Mars_eqc_ESP_042252_1930_RED_B_01_ORTHO",
+    "Icon": "{MoonImage}\\Mars_eqc_ESP_042252_1930_RED_B_01_ORTHO\\ESP_042252_1930_RED_B_01_ORTHO-120.png",
+    "BBOX": [
+        -4.3189165,
+        12.4509362,
+        -4.1936811,
+        12.8286463
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_ESP_042252_1930_RED_B_01_ORTHO\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_ESP_042252_1930_RED_B_01_ORTHO\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_ESP_042252_1930_RED_B_01_ORTHO\\MetaData.html"
+}

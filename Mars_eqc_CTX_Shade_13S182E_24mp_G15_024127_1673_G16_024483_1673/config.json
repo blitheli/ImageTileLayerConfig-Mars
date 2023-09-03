@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, HillShade Apollinaris 13S182E",
+    "LayerID": "Mars_eqc_CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673\\CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673-120.png",
+    "BBOX": [
+        177.9602502,
+        -12.9746423,
+        178.494306,
+        -12.2085819
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673\\MetaData.html"
+}

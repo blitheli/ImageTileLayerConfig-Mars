@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>175.1752978</West>
+        <East>175.6980715</East>
+        <South>-14.8276616</South>
+        <North>-14.3215408</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>18</LevelEnd>
+    </Range>
+</DataDefine>

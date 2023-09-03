@@ -1,0 +1,9 @@
+MRO CTX, Cerberus Mosaic
+Layer ID:Mars_eqc_Cerberus_CTX_BlockAdj_dd
+bbox:[160.1914394, 8.2036983, 163.8111954, 11.7431501]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Cerberus_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

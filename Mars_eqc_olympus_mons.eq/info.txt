@@ -1,0 +1,9 @@
+MRO CTX, Mosaic Olympus Mons
+Layer ID:Mars_eqc_olympus_mons.eq
+bbox:[-136.0, 12.0, -124.0, 24.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/olympus_mons.eq
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

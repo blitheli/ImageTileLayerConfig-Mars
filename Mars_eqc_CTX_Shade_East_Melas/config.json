@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MRO CTX, East Melas Hillshade",
+    "LayerID": "Mars_eqc_CTX_Shade_East_Melas",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Shade_East_Melas\\CTX_Shade_East_Melas-120.png",
+    "BBOX": [
+        -71.9531972,
+        -18.1329985,
+        -68.5407462,
+        -9.2929365
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Shade_East_Melas\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Shade_East_Melas\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Shade_East_Melas\\MetaData.html"
+}

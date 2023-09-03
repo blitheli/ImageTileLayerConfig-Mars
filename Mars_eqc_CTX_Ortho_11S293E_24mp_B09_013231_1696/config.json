@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Mosaic Coprates 11S293E",
+    "LayerID": "Mars_eqc_CTX_Ortho_11S293E_24mp_B09_013231_1696",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Ortho_11S293E_24mp_B09_013231_1696\\CTX_Ortho_11S293E_24mp_B09_013231_1696-120.png",
+    "BBOX": [
+        -67.6418298,
+        -11.3224197,
+        -67.1230587,
+        -10.4704204
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Ortho_11S293E_24mp_B09_013231_1696\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Ortho_11S293E_24mp_B09_013231_1696\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Ortho_11S293E_24mp_B09_013231_1696\\MetaData.html"
+}

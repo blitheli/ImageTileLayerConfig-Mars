@@ -1,0 +1,9 @@
+MRO CTX, Western Noachis Terra Mosaic
+Layer ID:Mars_eqc_Noachis_CTX_BlockAdj_dd
+bbox:[-11.7437774, -39.0682654, -7.2644644, -35.3919929]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Noachis_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Color Slope Deuteronius 40N024E",
+    "LayerID": "Mars_eqc_CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206\\CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206-120.png",
+    "BBOX": [
+        21.4986841,
+        39.2286101,
+        22.4623331,
+        41.3931762
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206\\MetaData.html"
+}

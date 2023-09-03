@@ -1,0 +1,9 @@
+MGS MOLA, Global Surface Roughness
+Layer ID:Mars_eqc_mola_roughness
+bbox:[-180.0, -90.0, 180.0, 90.0]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/mola_roughness
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

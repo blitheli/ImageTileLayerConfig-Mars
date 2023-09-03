@@ -1,0 +1,9 @@
+MRO CTX, Ausonia Mosaic
+Layer ID:Mars_eqc_Ausonia_CTX_BlockAdj_dd
+bbox:[94.1612715, -33.914489, 98.8963428, -30.148971]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Ausonia_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

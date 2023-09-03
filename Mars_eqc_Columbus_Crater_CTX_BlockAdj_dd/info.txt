@@ -1,0 +1,9 @@
+MRO CTX, Columbus Crater Mosaic
+Layer ID:Mars_eqc_Columbus_Crater_CTX_BlockAdj_dd
+bbox:[-167.9347281, -30.6920214, -164.0652861, -27.3078624]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Columbus_Crater_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

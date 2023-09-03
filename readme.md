@@ -48,4 +48,7 @@
 20230724    集中对全部moon_eqc图层进行了编号，保存在tile_idx_eqc.xlsx文件中，并生成了index.html文件
 20230728    Moon_eqc_gggrx_1200a_anom_l1200.eq 的id错误
             Moon_eqc_gggrx_1200a_geoid_l660.eq
-20230903    更改为Mars单独项目            
+20230903    更改为Mars单独项目
+            初次生成所有mars图层文件夹，暂时metadata无法获取！
+            此次生成的0_TileType可以用于红豆地球的自定义图源！
+            后续待metadata可获取后，可重新删除所有文件重新生成！

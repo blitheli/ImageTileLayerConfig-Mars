@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S291E_F14",
+    "LayerID": "Mars_eqc_F14_041292_1682_map_ba_align_6_fill500-DRG",
+    "Icon": "{MoonImage}\\Mars_eqc_F14_041292_1682_map_ba_align_6_fill500-DRG\\F14_041292_1682_map_ba_align_6_fill500-DRG-120.png",
+    "BBOX": [
+        -70.2863983,
+        -12.108826,
+        -69.7636795,
+        -11.3658446
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_F14_041292_1682_map_ba_align_6_fill500-DRG\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_F14_041292_1682_map_ba_align_6_fill500-DRG\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_F14_041292_1682_map_ba_align_6_fill500-DRG\\MetaData.html"
+}

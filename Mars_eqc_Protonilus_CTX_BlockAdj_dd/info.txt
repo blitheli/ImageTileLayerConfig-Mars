@@ -1,0 +1,9 @@
+MRO CTX, Protonilus Mensae Mosaic
+Layer ID:Mars_eqc_Protonilus_CTX_BlockAdj_dd
+bbox:[45.7924416, 40.4042625, 50.4234213, 43.94363]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Protonilus_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

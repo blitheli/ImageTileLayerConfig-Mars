@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "Mars Reconnaissance Orbiter CTX, Mosaic Apollinaris 13S182E",
+    "LayerID": "Mars_eqc_CTX_Ortho_13S182E_24mp_G15_024127_1673",
+    "Icon": "{MoonImage}\\Mars_eqc_CTX_Ortho_13S182E_24mp_G15_024127_1673\\CTX_Ortho_13S182E_24mp_G15_024127_1673-120.png",
+    "BBOX": [
+        177.9674877,
+        -12.9682146,
+        178.4884857,
+        -12.2161231
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_CTX_Ortho_13S182E_24mp_G15_024127_1673\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Ortho_13S182E_24mp_G15_024127_1673\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_Ortho_13S182E_24mp_G15_024127_1673\\MetaData.html"
+}

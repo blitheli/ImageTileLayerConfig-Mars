@@ -1,0 +1,9 @@
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S291E_F21
+Layer ID:Mars_eqc_CTX_ClrSlope_8bit_12S291E_24mp_F21_043850_1684_F21_043916_1685
+bbox:[-69.6750582, -11.9055184, -69.1414072, -11.1382433]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/CTX_ClrSlope_8bit_12S291E_24mp_F21_043850_1684_F21_043916_1685
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

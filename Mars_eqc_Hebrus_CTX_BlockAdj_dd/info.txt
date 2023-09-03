@@ -1,0 +1,9 @@
+MRO CTX, Hebrus Valles Mosaic
+Layer ID:Mars_eqc_Hebrus_CTX_BlockAdj_dd
+bbox:[124.7528509, 18.2859829, 128.4529109, 21.8254348]
+WMTS Endpoint :https://trek.nasa.gov/tiles/Mars/EQ/Hebrus_CTX_BlockAdj_dd
+Abstract :NaN
+NaN
+Projection:
+urn:ogc:def:crs:EPSG::104905
+

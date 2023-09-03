@@ -1,0 +1,17 @@
+{
+    "ProjectionType": "EQ",
+    "Title": "MGS MOLA, Global Surface Roughness",
+    "LayerID": "Mars_eqc_mola_roughness",
+    "Icon": "{MoonImage}\\Mars_eqc_mola_roughness\\mola_roughness-120.png",
+    "BBOX": [
+        -180.0,
+        -90.0,
+        180.0,
+        90.0
+    ],
+    "Abstract": "NaN",
+    "Projection": "urn:ogc:def:crs:EPSG::104905\n",
+    "Preview": "{MoonImage}\\Mars_eqc_mola_roughness\\index.html",
+    "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_mola_roughness\\WMTSCapabilities.xml",
+    "MetaData": "{MoonImage}\\Mars_eqc_mola_roughness\\MetaData.html"
+}

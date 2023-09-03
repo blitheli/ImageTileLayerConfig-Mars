@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="GB18030"?>
+<DataDefine>
+    <Version>0</Version>    
+    <Name>Mars_eqc_mars_pahrump_patch_8k_256m</Name>
+    <GeoGridType>TianDiTuLatLon</GeoGridType>
+    <SampleSize>256</SampleSize>
+    <DataVersion></DataVersion>
+    <DataType>urlformat</DataType>
+    <TileRowDir>NorthToSouth</TileRowDir>
+    <UrlParamOrder>z, y, x</UrlParamOrder>
+    <NetPath>https://trek.nasa.gov/tiles/Mars/EQ/mars_pahrump_patch_8k_256m/1.0.0/WMTSCapabilities.xml</NetPath>
+    <FileExt></FileExt>
+    <Range>
+        <West>137.3752976</West>
+        <East>137.3796184</East>
+        <South>-4.6651732</South>
+        <North>-4.6608555</North>
+        <LevelBegin>1</LevelBegin>
+        <LevelEnd>19</LevelEnd>
+    </Range>
+</DataDefine>
