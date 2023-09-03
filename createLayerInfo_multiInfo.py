@@ -4,6 +4,7 @@
 #   当前仅支持相同星球和图层类型的info信息，支持多个信息同时读取并生成
 #   2023-07-13  苏秀中
 #   2023-07-14  liyunfei，更新百度翻译api id
+#   20230902    blitheli,增加代理接口，sxz修正abstract为空的BUG
 
 import os
 import json
@@ -15,12 +16,40 @@ from bs4 import BeautifulSoup
 import xml.etree.ElementTree as ET
 import time
 
+proxies = {
+  'http': 'http://127.0.0.1:10809',
+  'https': 'http://127.0.0.1:10809',
+}
+
 
 #运行前注意填写行星和图层类型
 
 planet = 'Mars'  #月球为Moon，火星为Mars
 service = 'EQ'  #赤道为EQ，北极为NP，南极为SP
 
+#生成0_TileType文件, 当前图层序号默认为1000000000
+# 这里根据实际情况手动设置初始的编号，后续自动+1
+if planet == 'Moon':
+    if service == 'EQ':
+        tile_idx = 1000000000
+    elif service == 'SP':
+        tile_idx = 1000010100
+    elif service == 'NP':
+        tile_idx = 1000020100
+elif planet == 'Mars':
+    if service == 'EQ':
+        tile_idx = 1300000020
+    elif service == 'SP':
+        tile_idx = 1300010000
+    elif service == 'NP':
+        tile_idx = 1300020000
+elif planet == 'Earth':
+    if service == 'EQ':
+        tile_idx = 2000000000
+    elif service == 'SP':
+        tile_idx = 2000010000
+    elif service == 'NP':
+        tile_idx = 2000020000
 
 # info中包含多个图层时使用
 
@@ -65,7 +94,7 @@ def translate_text(text):
     }
 
     # 发送GET请求
-    response = requests.get(url, params=params)
+    response = requests.get(url, params=params, proxies=proxies)
 
     # 解析响应
     result = response.json()
@@ -127,7 +156,7 @@ def extract_info(string):
     return title, layer_id, bbox, icon, preview, wmts_capabilities, metadata, projection, folder_path, pic_name
 
 
-#生成config文件
+#生成config文件(config.json)
 def generate_config_file(service, title, layer_id, bbox, projection, icon, abstract, preview, wmts_capabilities, metadata, folder_path):
 
     #projection_single_line = re.sub(r'[\n\t\s]', '', projection)
@@ -155,7 +184,7 @@ def generate_config_file(service, title, layer_id, bbox, projection, icon, abstr
 
 #下载wtms文件
 def download_wmts(url):
-    response = requests.get(url, stream=True)
+    response = requests.get(url, stream=True, proxies=proxies)
     file_name = url.split('/')[-1]  # 获取文件名
        
     save_file_path = os.path.join(folder_path, file_name)  # 拼接保存文件的完整路径
@@ -170,7 +199,7 @@ def download_wmts(url):
 
 #下载pic文件
 def download_pic(url):
-    response = requests.get(url, stream=True)
+    response = requests.get(url, stream=True, proxies=proxies)
     file_name = pic_name + '-120.png'  # 获取文件名
        
     save_file_path = os.path.join(folder_path, file_name)  # 拼接保存文件的完整路径
@@ -185,7 +214,7 @@ def download_pic(url):
 
 #下载metadata文件
 def save_webpage(url):
-    response = requests.get(url)
+    response = requests.get(url, proxies=proxies)
     save_file_path = folder_path + '/' + 'metadata.html'
 
     with open(save_file_path, 'w', encoding='utf-8') as file:
@@ -228,8 +257,13 @@ def extract_abstract():
     abstract_start = text.find("Abstract:")
     purpose_end = text.find("Purpose:")
 
+    #metadata文件错误返回NaN
     if abstract_start == -1 or purpose_end == -1:
-        return "未找到相关内容"
+        print('metadata文件中未找到相关内容')
+        abstract = 'NaN'
+        abstract_cn =  'NaN'
+        wmts_endpoint = 'https://trek.nasa.gov/tiles/' + planet + '/' +  service + '/' + pic_name
+        return abstract, abstract_cn, wmts_endpoint
 
     abstract = text[abstract_start + len("Abstract:"):purpose_end].strip()
     abstract_cn = translate_text(abstract)
@@ -292,29 +326,8 @@ def write_lrc():
 
     print(f"lrc已保存到：{lrc_path}")
 
-#生成0_TileType文件, 当前图层序号默认为1000000000
-if planet == 'Moon':
-    if service == 'EQ':
-        tile_idx = 1000000000
-    elif service == 'SP':
-        tile_idx = 1000010100
-    elif service == 'NP':
-        tile_idx = 1000020100
-elif planet == 'Mars':
-    if service == 'EQ':
-        tile_idx = 1300000020
-    elif service == 'SP':
-        tile_idx = 1300010000
-    elif service == 'NP':
-        tile_idx = 1300020000
-elif planet == 'Earth':
-    if service == 'EQ':
-        tile_idx = 2000000000
-    elif service == 'SP':
-        tile_idx = 2000010000
-    elif service == 'NP':
-        tile_idx = 2000020000
 
+# 生成0_TyleType.txt文件，以供瓦片服务器自定义图源识别
 def write_tile(tile_idx):
     tile_idx = str(tile_idx)
     save_file_path = folder_path + '/' + '0_TileType.txt'
@@ -335,14 +348,11 @@ for info in info_s:
     pic_url = 'https://trek.nasa.gov/tiles/' + planet + '/'+ service + '/' + pic_name + '/thumbnail/' + pic_name + '-120.png'
     metadata_url = 'https://trek.nasa.gov/' + planet.lower() + '/TrekWS/rest/cat/metadata/fgdc/html?label=' + pic_name
     folder_path = './' + layer_id
-
-
-
     
     # 使用os.mkdir()函数创建文件夹
     if not os.path.exists(folder_path):
         #检查wmts文件是否正确
-        wmts_respons = requests.get(wmts_url)
+        wmts_respons = requests.get(wmts_url, proxies=proxies)
         if wmts_respons.status_code != 200:
             print(f"图层{layer_id}wmts文件获取失败. HTTP status code:", wmts_respons.status_code)
             info_error.append(info)
@@ -390,7 +400,8 @@ for info in info_s:
 
     #生成0_TileType文件
     write_tile(tile_idx)
-
+    tile_idx = tile_idx + 1
+    
     print(f"图层{layer_id}文件已生成")    
 
 # 打开txt文件以写入模式

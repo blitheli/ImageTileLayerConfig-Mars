@@ -1,7 +1,8 @@
 本项目为 “瓦片服务器”发布的影像 创建Config文件，便于网站调用，显示所有图层信息
 
-### 所有图层文件夹均来自于“瓦片服务器”中的“自定义图源”内文件夹
-### 大部分图层来源于：https://trek.nasa.gov/tiles/apidoc/trekAPI.html?body=moon
+### 本项目仅为生成Mars的图层！
+### 根据info.txt内的内容，自动创建所有图层的文件夹，以用于“瓦片服务器”中的“自定义图源”文件夹
+### 大部分图层来源于：https://trek.nasa.gov/tiles/apidoc/trekAPI.html?body=mars
 ### 在每个图层文件内部
 - info.txt              为图层的描述信息，自己添加，以供参考
 - index.html            为图层的预览文件(手动或自动生成)
@@ -47,3 +48,4 @@
 20230724    集中对全部moon_eqc图层进行了编号，保存在tile_idx_eqc.xlsx文件中，并生成了index.html文件
 20230728    Moon_eqc_gggrx_1200a_anom_l1200.eq 的id错误
             Moon_eqc_gggrx_1200a_geoid_l660.eq
+20230903    更改为Mars单独项目            

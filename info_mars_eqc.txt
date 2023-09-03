@@ -34,3 +34,1289 @@ Projection :
 
 urn:ogc:def:crs:EPSG::104905
 ...
+MGS MOLA, Global Surface Roughness
+Layer ID : mola_roughness
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global Dust
+Layer ID : TES_Dust
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global Dust Index
+Layer ID : tes_ruffdust
+bbox : -179.9879778,-89.9639494,179.9541072,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global High-Ca Pyroxene Abundance
+Layer ID : TES_Clinopyroxene
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global Plagioclase Abundance
+Layer ID : TES_Plagioclase
+bbox : -180,-89.8749905,179.874985,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global Sheet Silicates/High-Si Glass
+Layer ID : TES_Glass_Clay
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global Surface Albedo
+Layer ID : Mars_MGS_TES_Albedo_mosaic_global_7410m
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MGS TES, Global Thermal Inertia
+Layer ID : TES_Thermal_Inertia
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MO THEMIS-IR Day, Global Mosaic
+Layer ID : THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018
+bbox : -179.9999997,-65.0006576,179.9998849,65.0007535
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MO THEMIS-IR Night, Global Mosaic
+Layer ID : THEMIS_NightIR_ControlledMosaics_100m_v2_oct2018
+bbox : -179.9999997,-65.0006576,179.9998849,65.0007535
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, 22n048w Mosaic
+Layer ID : b21_017819_2025_xn_22n048w
+bbox : -48.2423413,21.8892236,-47.6367163,22.6587236
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Acheron Fossae Mosaic
+Layer ID : Acheron_Fossae_CTX_BlockAdj_dd
+bbox : -141.6026047,38.1079779,-137.1973524,41.4921368
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Acidalia Plantia Mosaic
+Layer ID : Acidalia_Plantia_CTX_BlockAdj_dd
+bbox : -41.800754,18.3079786,-38.1992173,21.6921376
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Arabia Terra Mosaic
+Layer ID : Arabia_Terra_CTX_BlockAdj_dd
+bbox : -9.9921439,-1.2920214,-6.6078162,2.0921376
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Aram Chaos Mosaic
+Layer ID : Aram_Chaos_CTX_BlockAdj_dd
+bbox : -21.6935908,0.7079787,-18.3063952,4.0921377
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Arcadia Mosaic
+Layer ID : Arcadia_CTX_BlockAdj_dd
+bbox : 169.6807093,37.0237318,174.3355609,40.8666014
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Arcadia Planitia Mosaic
+Layer ID : Arcadia_Planitia_CTX_BlockAdj_dd
+bbox : -173.645143,44.5079794,-168.7548608,47.8921384
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Ausonia Mosaic
+Layer ID : Ausonia_CTX_BlockAdj_dd
+bbox : 94.1612715,-33.914489,98.8963428,-30.148971
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Cerberus Mosaic
+Layer ID : Cerberus_CTX_BlockAdj_dd
+bbox : 160.1914394,8.2036983,163.8111954,11.7431501
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Columbus Crater Mosaic
+Layer ID : Columbus_Crater_CTX_BlockAdj_dd
+bbox : -167.9347281,-30.6920214,-164.0652861,-27.3078624
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Copernicus Crater Mosaic
+Layer ID : Copernicus_Crater_CTX_BlockAdj_dd
+bbox : -171.7900514,-50.8920221,-166.6099322,-47.5078632
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Coprates EMelas Chasm Mosaic
+Layer ID : Coprates_EMelas_Chasm_CTX_BlockAdj_dd
+bbox : -71.7280511,-13.3920212,-64.8714999,-10.0078622
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Curiosity Roving Site Mosaic
+Layer ID : curiosity_ctx_mosaic
+bbox : 136.2768326,-7.2137273,139.3864225,-3.5804738
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Deuteronilus Mensae Mosaic
+Layer ID : Deuteronilus1_2_CTX_BlockAdj_dd
+bbox : 19.405687,37.2289685,25.7660719,42.8254527
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, East Melas Hillshade
+Layer ID : CTX_Shade_East_Melas
+bbox : -71.9531972,-18.1329985,-68.5407462,-9.2929365
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Eastern Valles Marineris Mosaic
+Layer ID : NE_Marineris_Crater_CTX_BlockAdj_dd
+bbox : -36.8964858,-5.7920213,-33.5035541,-2.4078623
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Equatorial Valles Marineries Mosaic
+Layer ID : SE_Marineris_CTX_BlockAdj_dd
+bbox : -50.9875215,-20.4920206,-47.4124717,-17.1078616
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Erebus Montes Mosaic
+Layer ID : Erebus_Montes_CTX_BlockAdj_dd
+bbox : -170.0774884,37.3079786,-165.7225105,40.6921376
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Gale Crater Mosaic
+Layer ID : Gale_CTX_BlockAdj_dd
+bbox : 135.1842593,-6.5732988,139.2413012,-2.8077809
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Gusev Crater Mosaic
+Layer ID : Gusev_CTX_BlockAdj_dd
+bbox : 173.2463549,-16.2218451,178.4633349,-10.9930557
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Hadriacus Mosaic
+Layer ID : Hadriacus_CTX_BlockAdj_dd
+bbox : 75.5853118,-28.5240883,79.4329052,-25.0797866
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Hale Crater Mosaic
+Layer ID : Hale_Crater_CTX_BlockAdj_dd
+bbox : -38.3864506,-37.4920206,-34.2135065,-34.1078616
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Hebrus Valles Mosaic
+Layer ID : Hebrus_CTX_BlockAdj_dd
+bbox : 124.7528509,18.2859829,128.4529109,21.8254348
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Hellas Eastern Rim Mosaic
+Layer ID : Hellas_Hellas2_CTX_BlockAdj_dd
+bbox : 99.6625132,-41.8075384,106.2773911,-37.3150663
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Hellas Mesopotamia Mosaic
+Layer ID : Hellas3_CTX_BlockAdj_dd
+bbox : 91.7243027,-37.2541428,96.2500099,-33.6135517
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Huygens Crater Mosaic
+Layer ID : Huygens_CTX_BlockAdj_dd
+bbox : 53.7314092,-15.2204292,57.279212,-11.7762119
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Hypanis Delta Mosaic
+Layer ID : Hypanis_Delta_CTX_BlockAdj_dd
+bbox : -47.0279725,10.0079784,-43.5720291,13.3921374
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Ismenius Cavus Mosaic
+Layer ID : Ismenius_Cavus_CTX_BlockAdj_dd
+bbox : 15.1635869,32.1079779,19.236404,35.4921368
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Jezero Mosaic, Controlled
+Layer ID : JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0
+bbox : 77.1604655,18.2110274,77.6991776,18.7211945
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+PROJCS["Equirectangular Mars 2000 Sphere IAU",
+	GEOGCS["GCS_Mars_2000_Sphere",
+		DATUM["Mars_2000_Sphere",SPHEROID["Mars_2000_Sphere_IAU",3396190,0]],
+		PRIMEM["Reference_Meridian",0],UNIT["degree",0.0174532925199433]],
+	PROJECTION["Equirectangular"],
+	PARAMETER["latitude_of_origin",0],
+	PARAMETER["central_meridian",0],
+	PARAMETER["standard_parallel_1",0],
+	PARAMETER["false_easting",0],
+	PARAMETER["false_northing",0],UNIT["metre",1,AUTHORITY["EPSG","9001"]]]
+...
+MRO CTX, Jezero Mosaic, Preliminary
+Layer ID : Jezero_CTX_BlockAdj_dd
+bbox : 75.1537692,15.9058484,78.8717121,19.4453003
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Kasei Valles Mosaic
+Layer ID : Kasei_Valles_CTX_BlockAdj_dd
+bbox : -74.4641069,23.1079779,-70.7358719,26.4921368
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Mawrth Vallis Mosaic
+Layer ID : Mawrth_Valles_CTX_BlockAdj_dd
+bbox : -21.0566936,22.6079779,-17.3433048,25.9921368
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, McLaughlin Crater Mosaic
+Layer ID : McLaughlin_Crater_CTX_BlockAdj_dd
+bbox : -24.223774,20.2079782,-20.5761806,23.5921372
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Meridiani Planum - Sinus Meridiani Mosaic
+Layer ID : S_Meridiani_Sinus_Planium_CTX_BlockAdj_dd
+bbox : -8.093484,-4.8925742,-2.8037058,-0.6078623
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Mosaic Global Uncontrolled (Caltech)
+Layer ID : CTX_beta01_uncontrolled_5m_Caltech
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Mosaic InSight
+Layer ID : InSightCTXMosaic_112917
+bbox : 133.935732,3.728413,137.2761299,5.0696168
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Mosaic Olympus Mons
+Layer ID : olympus_mons.eq
+bbox : -136,12,-124,24
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Newton Crater Mosaic
+Layer ID : Newton_Crater_CTX_BlockAdj_dd
+bbox : -162.2288716,-42.2920198,-157.7711517,-38.9078609
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Noctis Landing Mosaic
+Layer ID : Noactis_Landing_CTX_BlockAdj_dd
+bbox : -94.2030863,-8.1920214,-90.7969111,-4.8078624
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Protonilus Mensae Mosaic
+Layer ID : Protonilus_CTX_BlockAdj_dd
+bbox : 45.7924416,40.4042625,50.4234213,43.94363
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Southern Nectaris Fossae Mosaic
+Layer ID : S_Nectaris_Fossae_CTX_BlockAdj_dd
+bbox : -61.6328714,-30.592021,-57.767141,-27.207862
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Viking 1 Landing Site Mosaic
+Layer ID : Viking_CTX_BlockAdj_dd
+bbox : -50.1289484,20.6079779,-46.4710639,23.9921368
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Viking 2 Landing Site Mosaic
+Layer ID : b16_015887_2280_xn_48n225w
+bbox : 133.7852899,46.3960605,135.0173759,48.9848625
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, West Candor Chasma Mosaic
+Layer ID : West_Candor_Chasma_longlat
+bbox : -77.591529,-7.4890436,-76.5878504,-3.9755598
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Western Noachis Terra Mosaic
+Layer ID : Noachis_CTX_BlockAdj_dd
+bbox : -11.7437774,-39.0682654,-7.2644644,-35.3919929
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO CTX, Zephyria Planum Mosaic
+Layer ID : Zephyria_CTX_BlockAdj_dd
+bbox : 155.3902904,-3.1240146,158.821433,0.3024043
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Columbia Hills Mosaic
+Layer ID : HiRISE_ColumbiaHills
+bbox : 175.3183393,-14.847288,175.7967313,-14.250304
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Curiosity Roving Site Mosaic
+Layer ID : curiosity_hirise_mosaic
+bbox : 137.1224669,-4.9254743,137.7298129,-4.2489588
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Jezero Mosaic, Controlled
+Layer ID : JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd
+bbox : 77.2229331,18.3067994,77.583964,18.669315
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+GEOGCS["unnamed ellipse",
+	DATUM["unknown",SPHEROID["unnamed",3396190,0]],
+	PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433]]
+...
+MRO HiRISE, Marth Crater West Rim Mosaic
+Layer ID : ESP_042252_1930_RED_B_01_ORTHO
+bbox : -4.3189165,12.4509362,-4.1936811,12.8286463
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Martian Ares 3 Landing Site Mosaic
+Layer ID : ESP_040776_2115_RED_A_01_ORTHO
+bbox : -28.692987,31.2391925,-28.5529717,31.5262331
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Martian Ares 4 Landing Site Mosaic
+Layer ID : ESP_042647_1760_RED_B_01_ORTHO
+bbox : 15.1514729,-4.1212243,15.259779,-3.8131537
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Mosaic Columbia Hills
+Layer ID : CLH_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018
+bbox : 175.1752978,-14.8276616,175.6980715,-14.3215408
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Mosaic Global Uncontrolled
+Layer ID : HiRISE_Global
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Mosaic Insight Landing Site
+Layer ID : ESP_058005_1845_RED_spline_rect
+bbox : 135.5687727,4.3304903,135.6963018,4.6680121
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Mosaic Jezero NE Syrtis Midway
+Layer ID : NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018
+bbox : 76.7912789,17.5791654,77.7314417,18.6926322
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Mosaic Opportunity
+Layer ID : HiRISE_Opportunity
+bbox : -5.6179114,-2.8342616,-4.9306494,-1.8895077
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Opportunity Roving Site Mosaic
+Layer ID : opportunity_hirise_mosaic
+bbox : -5.5964391,-2.7513281,-4.9954112,-1.8994384
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Phoenix Landing Site Mosaic
+Layer ID : phoenix_hirise_mosaic
+bbox : -125.8898226,68.165978,-125.6607922,68.2499439
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Sojourner Roving Site Mosaic
+Layer ID : sojourner_hirise_mosaic
+bbox : -33.2879718,19.0227898,-33.208734,19.1598471
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Southwest Candor Chasma Mosaic
+Layer ID : PSP_001918_1735_RED_A_01_ORTHO_longlat
+bbox : -76.9823817,-6.5613214,-76.8732883,-6.3775787
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Spirit Roving Site Mosaic
+Layer ID : spirit_hirise_mosaic
+bbox : 175.4278511,-14.6925026,175.5858031,-14.5357546
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Viking 1 Landing Site Mosaic
+Layer ID : PSP_001521_2025_RED
+bbox : -48.0315109,22.0911996,-47.8627669,22.4608596
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MRO HiRISE, Viking 2 Landing Site Mosaic
+Layer ID : PSP_001501_2280_RED
+bbox : 134.1990102,47.5633533,134.3996328,47.7836251
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+MSL, Pahrump Hills
+Layer ID : mars_pahrump_patch_8k_256m
+bbox : 137.3752976,-4.6651732,137.3796184,-4.6608555
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Martian Path Eastern Section Color Mosaic
+Layer ID : HRSC_Martian_east
+bbox : -0.2681202,-4.0069693,16.6967375,4.1069798
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Martian Path MC11 Quad Color Mosaic
+Layer ID : MC11E_HRMOSCO_COL
+bbox : -22.5003192,-0.0004218,0.0004218,30.0005662
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Martian Path MC11 Quad Mosaic
+Layer ID : MC11E_HRMOSND_ND5
+bbox : -22.5000028,-0.0001054,0.0001054,30.0000389
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Mawrth Vallis Color Mosaic
+Layer ID : hrsc_mawrth_vallis_color
+bbox : -22,20.9997983,-16.4998151,27
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Mawrth Vallis Mosaic
+Layer ID : hrsc_mawrth_vallis
+bbox : -22.0015016,20.9957076,-16.5001079,27.0011311
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Viking 1 Landing Site Mosaic
+Layer ID : h2942_0000_nd3
+bbox : -49.5924103,14.0680405,-46.3979178,26.8116326
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Express HRSC, Viking 2 Landing Site Mosaic
+Layer ID : h1394_0000_nd3
+bbox : 73.0889177,46.0494264,174.8214719,87.0653109
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Apollinaris 12S182E
+Layer ID : CTX_ClrSlope_8bit_12S182E_24mp_P22_009609_1674_B02_010453_1675
+bbox : 177.7855382,-12.9379994,178.3438877,-11.9650379
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Apollinaris 13S182E
+Layer ID : CTX_ClrSlope_8bit_13S182E_24mp_G15_024127_1673_G16_024483_1673
+bbox : 177.9600477,-12.9744399,178.4941036,-12.2083795
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Apollinaris 14S184E
+Layer ID : CTX_ClrSlope_8bit_14S184E_24mp_B01_009886_1658_P21_009385_1658
+bbox : 175.5529498,-14.6417955,176.1258756,-13.5659908
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Coprates 10S291E
+Layer ID : CTX_ClrSlope_8bit_10S291E_24mp_P22_009684_1699_B02_010396_1699
+bbox : -69.522413,-10.7726235,-68.9409844,-9.28909
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Coprates 11S293E
+Layer ID : CTX_ClrSlope_8bit_11S293E_24mp_B09_013231_1696_B11_013732_1690
+bbox : -67.6457269,-11.3289486,-67.1197689,-10.4620694
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Coprates 13S293E
+Layer ID : CTX_ClrSlope_8bit_13S293E_24mp_G07_020879_1669_G09_021657_1665
+bbox : -66.8484896,-13.9405182,-66.221308,-12.1541236
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Deuteronius 37N024E
+Layer ID : CTX_ClrSlope_8bit_37N024E_24mp_G05_020203_2178_G22_026994_2170
+bbox : 23.6438153,36.1947355,24.6115132,38.7791772
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Deuteronius 38N024E
+Layer ID : CTX_ClrSlope_8bit_38N024E_24mp_B17_016168_2181_G16_024594_2181
+bbox : 23.4170744,36.8445912,24.2940759,38.7091305
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Deuteronius 39N024E
+Layer ID : CTX_ClrSlope_8bit_39N024E_24mp_D15_032875_2196_D15_033165_2196
+bbox : 24.3175598,38.9136022,25.0888838,39.8727973
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope Deuteronius 40N024E
+Layer ID : CTX_ClrSlope_8bit_40N022E_24mp_B18_016656_2206_B18_016801_2206
+bbox : 21.4986841,39.2286101,22.4623331,41.3931762
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 11S289E
+Layer ID : CTX_ClrSlope_8bit_11S289E_24mp_F23_044971_1685_F21_043995_1685
+bbox : -69.8722418,-11.7998409,-69.3122727,-11.0341854
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 11S291E
+Layer ID : CTX_ClrSlope_8bit_11S291E_24mp_B19_017187_1685_B19_016976_1685
+bbox : -69.645096,-13.5416971,-68.7227463,-9.2927341
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S289E_D01
+Layer ID : CTX_ClrSlope_8bit_12S289E_24mp_D01_027446_1678_D01_027723_1677
+bbox : -71.9533996,-14.8320959,-70.8638285,-9.5494372
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S289E_F18
+Layer ID : CTX_ClrSlope_8bit_12S289E_24mp_F18_042927_1681_J02_045749_1694
+bbox : -71.3047586,-12.5727845,-70.6885092,-11.085607
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S290E
+Layer ID : CTX_ClrSlope_8bit_12S290E_24mp_D18_034250_1676_D21_035450_1674
+bbox : -70.7666538,-14.9466811,-69.7868091,-9.9114129
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S291E_F14
+Layer ID : CTX_ClrSlope_8bit_12S291E_24mp_F14_041292_1682_F16_041938_1682
+bbox : -70.2929272,-12.1148488,-69.7572518,-11.3609352
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S291E_F21
+Layer ID : CTX_ClrSlope_8bit_12S291E_24mp_F21_043850_1684_F21_043916_1685
+bbox : -69.6750582,-11.9055184,-69.1414072,-11.1382433
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 12S291E_J01
+Layer ID : CTX_ClrSlope_8bit_12S291E_24mp_J01_045116_1677_J03_046039_1676
+bbox : -69.691254,-12.8683575,-69.084722,-11.5868664
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 13S289E
+Layer ID : CTX_ClrSlope_8bit_13S289E_24mp_D10_031125_1673_D12_031903_1669
+bbox : -71.2096084,-13.2764912,-70.6702889,-12.505572
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Color Slope East Melas 16S291E_D22
+Layer ID : CTX_ClrSlope_8bit_16S291E_24mp_D22_035951_1644_F01_036307_1644
+bbox : -69.5815276,-18.132796,-68.5409487,-12.8675477
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Apollinaris 12S182E
+Layer ID : CTX_Shade_12S182E_24mp_P22_009609_1674_B02_010453_1675
+bbox : 177.7857406,-12.9382018,178.3440902,-11.9652403
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Apollinaris 13S182E
+Layer ID : CTX_Shade_13S182E_24mp_G15_024127_1673_G16_024483_1673
+bbox : 177.9602502,-12.9746423,178.494306,-12.2085819
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Apollinaris 14S184E
+Layer ID : CTX_Shade_14S184E_24mp_B01_009886_1658_P21_009385_1658
+bbox : 175.5531523,-14.641998,176.126078,-13.5661932
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Coprates 10S291E
+Layer ID : CTX_Shade_10S291E_24mp_P22_009684_1699_B02_010396_1699
+bbox : -69.5222105,-10.772826,-68.940782,-9.2892924
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Coprates 11S293E
+Layer ID : CTX_Shade_11S293E_24mp_B09_013231_1696_B11_013732_1690
+bbox : -67.6455244,-11.329151,-67.1195665,-10.4622719
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Coprates 13S293E
+Layer ID : CTX_Shade_13S293E_24mp_G07_020879_1669_G09_021657_1665
+bbox : -66.8482871,-13.9407207,-66.2211055,-12.154326
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Deuteronius 37N024E
+Layer ID : CTX_Shade_37N024E_24mp_G05_020203_2178_G22_026994_2170
+bbox : 23.6440177,36.1945331,24.6117156,38.7789748
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Deuteronius 38N024E
+Layer ID : CTX_Shade_38N024E_24mp_B17_016168_2181_G16_024594_2181
+bbox : 23.4172768,36.8443888,24.2942783,38.708928
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Deuteronius 39N024E
+Layer ID : CTX_Shade_39N024E_24mp_D15_032875_2196_D15_033165_2196
+bbox : 24.3177622,38.9133998,25.0890863,39.8725949
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade Deuteronius 40N024E
+Layer ID : CTX_Shade_40N022E_24mp_B18_016656_2206_B18_016801_2206
+bbox : 21.4988866,39.2284077,22.4625355,41.3929738
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 11S289E
+Layer ID : CTX_Shade_11S289E_24mp_F23_044971_1685_F21_043995_1685
+bbox : -69.8720394,-11.8000433,-69.3120703,-11.0343878
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 11S291E
+Layer ID : CTX_Shade_11S291E_24mp_B19_017187_1685_B19_016976_1685
+bbox : -69.6448936,-13.5418996,-68.7225439,-9.2929365
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S289E_D01
+Layer ID : CTX_Shade_12S289E_24mp_D01_027446_1678_D01_027723_1677
+bbox : -71.9531972,-14.8322984,-70.8636261,-9.5496396
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S289E_F18
+Layer ID : CTX_Shade_12S289E_24mp_F18_042927_1681_J02_045749_1694
+bbox : -71.3045562,-12.572987,-70.6883067,-11.0858094
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S290E
+Layer ID : CTX_Shade_12S290E_24mp_D18_034250_1676_D21_035450_1674
+bbox : -70.7664514,-14.9468835,-69.7866066,-9.9116153
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S291E_F14
+Layer ID : CTX_Shade_12S291E_24mp_F14_041292_1682_F16_041938_1682
+bbox : -70.2927248,-12.1150513,-69.7570493,-11.3611377
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S291E_F21
+Layer ID : CTX_Shade_12S291E_24mp_F21_043850_1684_F21_043916_1685
+bbox : -69.6748558,-11.9057208,-69.1412048,-11.1384457
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 12S291E_J01
+Layer ID : CTX_Shade_12S291E_24mp_J01_045116_1677_J03_046039_1676
+bbox : -69.6910515,-12.86856,-69.0845196,-11.5870688
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 13S289E_D10
+Layer ID : CTX_Shade_13S289E_24mp_D10_031125_1673_D12_031903_1669
+bbox : -71.209406,-13.2766936,-70.6700865,-12.5057745
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, HillShade East Melas 16S291E_D22
+Layer ID : CTX_Shade_16S291E_24mp_D22_035951_1644_F01_036307_1644
+bbox : -69.5813251,-18.1329985,-68.5407462,-12.8677502
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Hilllshade Deuteronilus
+Layer ID : Deuteronilus_CTX_Shade_v0_20171112
+bbox : 21.4988866,36.1945331,25.0890863,41.3929738
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Apollinaris 12S182E
+Layer ID : CTX_Ortho_12S182E_24mp_P22_009609_1674
+bbox : 177.7921683,-12.9326851,178.3389784,-11.9697448
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Apollinaris 13S182E
+Layer ID : CTX_Ortho_13S182E_24mp_G15_024127_1673
+bbox : 177.9674877,-12.9682146,178.4884857,-12.2161231
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Apollinaris 14S184E
+Layer ID : CTX_Ortho_14S184E_24mp_B01_009886_1658
+bbox : 175.5597824,-14.6387082,176.1214723,-13.5707989
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Coprates 10S291E
+Layer ID : CTX_Ortho_10S291E_24mp_P22_009684_1699
+bbox : -69.5178073,-10.7688276,-68.9481207,-9.2947079
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Coprates 11S293E
+Layer ID : CTX_Ortho_11S293E_24mp_B09_013231_1696
+bbox : -67.6418298,-11.3224197,-67.1230587,-10.4704204
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Coprates 13S293E
+Layer ID : CTX_Ortho_13S293E_24mp_G07_020879_1669
+bbox : -66.8431753,-13.9266,-66.22561,-12.1580207
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Deuteronius 38N024E
+Layer ID : CTX_Ortho_38N024E_6mp_B17_016168_2181
+bbox : 23.424818,36.8531446,24.2871421,38.7014881
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Deuteronius 39N024E
+Layer ID : CTX_Ortho_39N024E_6mp_D15_032875_2196
+bbox : 24.3257083,38.9184103,25.0835696,39.8677867
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic Deuteronius 40N024E
+Layer ID : CTX_Ortho_40N022E_6mp_B18_016656_2206
+bbox : 21.5066302,39.2322036,22.457525,41.3428175
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 11S291E
+Layer ID : CTX_Ortho_11S291E_6mp_B19_017187_1685
+bbox : -69.6408952,-13.5292972,-68.7274532,-9.2971373
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S289E_D01
+Layer ID : CTX_Ortho_12S289E_6mp_D01_027446_1678
+bbox : -71.9431255,-14.820607,-70.8764308,-9.558193
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S289E_F18
+Layer ID : CTX_Ortho_12S289E_6mp_F18_042927_1681
+bbox : -71.2983309,-12.5671666,-70.6923051,-11.0912249
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S290E
+Layer ID : CTX_Ortho_12S290E_6mp_D18_034250_1676
+bbox : -70.7376533,-14.9317506,-69.7923258,-9.918954
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S291E_F14
+Layer ID : F14_041292_1682_map_ba_align_6_fill500-DRG
+bbox : -70.2863983,-12.108826,-69.7636795,-11.3658446
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S291E_F21
+Layer ID : CTX_Ortho_12S291E_6mp_F21_043850_1684
+bbox : -69.6680232,-11.900609,-69.1471264,-11.1418367
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 12S291E_J01
+Layer ID : CTX_Ortho_12S291E_6mp_J01_045116_1677
+bbox : -69.6857373,-12.8639543,-69.0909473,-11.5924843
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 13S289E_D10
+Layer ID : CTX_Ortho_13S289E_6mp_D10_031125_1673
+bbox : -71.2032819,-13.2719867,-70.6758056,-12.5100765
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Mars Reconnaissance Orbiter CTX, Mosaic East Melas 16S291E
+Layer ID : CTX_Ortho_16S291E_6mp_D22_035951_1644
+bbox : -69.576517,-18.1267732,-68.5489959,-12.8731656
+WMTS Endpoint : 
+Abstract : 
+Projection :
+
+urn:ogc:def:crs:EPSG::104905
+...
+Viking VIS, Global Color Mosaic
+Layer ID : Mars_Viking_MDIM21_ClrMosaic_global_232m
+bbox : -180,-90,180,90
+WMTS Endpoint : 
+Abstract : 
+Projection :
