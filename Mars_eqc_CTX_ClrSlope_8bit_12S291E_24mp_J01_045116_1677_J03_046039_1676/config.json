@@ -13,5 +13,6 @@
     "Projection": "urn:ogc:def:crs:EPSG::104905\n",
     "Preview": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S291E_24mp_J01_045116_1677_J03_046039_1676\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S291E_24mp_J01_045116_1677_J03_046039_1676\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S291E_24mp_J01_045116_1677_J03_046039_1676\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_CTX_ClrSlope_8bit_12S291E_24mp_J01_045116_1677_J03_046039_1676\\MetaData.html",
+    "WMTS_TypeId": "1300000045"
 }

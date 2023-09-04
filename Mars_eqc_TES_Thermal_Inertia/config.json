@@ -13,5 +13,6 @@
     "Projection": "urn:ogc:def:crs:EPSG::104905\n",
     "Preview": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_TES_Thermal_Inertia\\MetaData.html",
+    "WMTS_TypeId": "1300000160"
 }

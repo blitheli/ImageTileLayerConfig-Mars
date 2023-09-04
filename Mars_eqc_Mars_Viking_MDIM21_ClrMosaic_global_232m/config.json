@@ -13,5 +13,6 @@
     "Projection": "",
     "Preview": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\MetaData.html",
+    "WMTS_TypeId": "1300000131"
 }

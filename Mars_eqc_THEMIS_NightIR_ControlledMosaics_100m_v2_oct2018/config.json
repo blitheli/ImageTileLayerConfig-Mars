@@ -13,5 +13,6 @@
     "Projection": "urn:ogc:def:crs:EPSG::104905\n",
     "Preview": "{MoonImage}\\Mars_eqc_THEMIS_NightIR_ControlledMosaics_100m_v2_oct2018\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_THEMIS_NightIR_ControlledMosaics_100m_v2_oct2018\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_THEMIS_NightIR_ControlledMosaics_100m_v2_oct2018\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_THEMIS_NightIR_ControlledMosaics_100m_v2_oct2018\\MetaData.html",
+    "WMTS_TypeId": "1300000162"
 }

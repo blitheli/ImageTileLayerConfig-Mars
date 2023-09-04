@@ -13,5 +13,6 @@
     "Projection": "GEOGCS['unnamed ellipse',\n\tDATUM['unknown',SPHEROID['unnamed',3396190,0]],\n\tPRIMEM['Greenwich',0],UNIT['degree',0.0174532925199433]]\n",
     "Preview": "{MoonImage}\\Mars_eqc_JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_JEZ_hirise_soc_006_orthoMosaic_25cm_Eqc_latTs0_lon0_first_dd\\MetaData.html",
+    "WMTS_TypeId": "1300000124"
 }

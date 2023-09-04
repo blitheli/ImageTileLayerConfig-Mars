@@ -13,5 +13,6 @@
     "Projection": "urn:ogc:def:crs:EPSG::104905\n",
     "Preview": "{MoonImage}\\Mars_eqc_HiRISE_Global\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_HiRISE_Global\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_HiRISE_Global\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_HiRISE_Global\\MetaData.html",
+    "WMTS_TypeId": "1300000113"
 }

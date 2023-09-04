@@ -13,5 +13,6 @@
     "Projection": "PROJCS['Equirectangular Mars 2000 Sphere IAU',\n\tGEOGCS['GCS_Mars_2000_Sphere',\n\t\tDATUM['Mars_2000_Sphere',SPHEROID['Mars_2000_Sphere_IAU',3396190,0]],\n\t\tPRIMEM['Reference_Meridian',0],UNIT['degree',0.0174532925199433]],\n\tPROJECTION['Equirectangular'],\n\tPARAMETER['latitude_of_origin',0],\n\tPARAMETER['central_meridian',0],\n\tPARAMETER['standard_parallel_1',0],\n\tPARAMETER['false_easting',0],\n\tPARAMETER['false_northing',0],UNIT['metre',1,AUTHORITY['EPSG','9001']]]\n",
     "Preview": "{MoonImage}\\Mars_eqc_JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0\\WMTSCapabilities.xml",
-    "MetaData": "{MoonImage}\\Mars_eqc_JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0\\MetaData.html"
+    "MetaData": "{MoonImage}\\Mars_eqc_JEZ_ctx_B_soc_008_orthoMosaic_6m_Eqc_latTs0_lon0\\MetaData.html",
+    "WMTS_TypeId": "1300000123"
 }
