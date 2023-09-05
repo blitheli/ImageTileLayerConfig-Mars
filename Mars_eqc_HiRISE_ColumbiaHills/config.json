@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_HiRISE_ColumbiaHills\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_HiRISE_ColumbiaHills\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_HiRISE_ColumbiaHills\\MetaData.html",
-    "WMTS_TypeId": "1300000112"
+    "WMTS_TypeId": "1300000112",
+    "MinimumLevel": 0,
+    "MaximumLevel": 16,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

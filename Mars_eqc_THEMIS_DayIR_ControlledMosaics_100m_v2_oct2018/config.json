@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_THEMIS_DayIR_ControlledMosaics_100m_v2_oct2018\\MetaData.html",
-    "WMTS_TypeId": "1300000161"
+    "WMTS_TypeId": "1300000161",
+    "MinimumLevel": 0,
+    "MaximumLevel": 9,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

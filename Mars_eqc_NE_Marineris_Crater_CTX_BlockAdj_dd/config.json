@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_NE_Marineris_Crater_CTX_BlockAdj_dd\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_NE_Marineris_Crater_CTX_BlockAdj_dd\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_NE_Marineris_Crater_CTX_BlockAdj_dd\\MetaData.html",
-    "WMTS_TypeId": "1300000140"
+    "WMTS_TypeId": "1300000140",
+    "MinimumLevel": 0,
+    "MaximumLevel": 12,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

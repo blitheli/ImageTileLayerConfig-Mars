@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_TES_Clinopyroxene\\MetaData.html",
-    "WMTS_TypeId": "1300000155"
+    "WMTS_TypeId": "1300000155",
+    "MinimumLevel": 0,
+    "MaximumLevel": 1,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

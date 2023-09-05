@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_phoenix_hirise_mosaic\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_phoenix_hirise_mosaic\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_phoenix_hirise_mosaic\\MetaData.html",
-    "WMTS_TypeId": "1300000145"
+    "WMTS_TypeId": "1300000145",
+    "MinimumLevel": 0,
+    "MaximumLevel": 16,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

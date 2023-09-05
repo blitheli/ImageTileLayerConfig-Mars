@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_Deuteronilus_CTX_Shade_v0_20171112\\MetaData.html",
-    "WMTS_TypeId": "1300000096"
+    "WMTS_TypeId": "1300000096",
+    "MinimumLevel": 0,
+    "MaximumLevel": 11,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

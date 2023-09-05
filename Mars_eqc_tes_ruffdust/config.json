@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_tes_ruffdust\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_tes_ruffdust\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_tes_ruffdust\\MetaData.html",
-    "WMTS_TypeId": "1300000159"
+    "WMTS_TypeId": "1300000159",
+    "MinimumLevel": 0,
+    "MaximumLevel": 2,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_CTX_Shade_13S293E_24mp_G07_020879_1669_G09_021657_1665\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Shade_13S293E_24mp_G07_020879_1669_G09_021657_1665\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_CTX_Shade_13S293E_24mp_G07_020879_1669_G09_021657_1665\\MetaData.html",
-    "WMTS_TypeId": "1300000085"
+    "WMTS_TypeId": "1300000085",
+    "MinimumLevel": 0,
+    "MaximumLevel": 11,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

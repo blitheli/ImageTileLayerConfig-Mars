@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_West_Candor_Chasma_longlat\\MetaData.html",
-    "WMTS_TypeId": "1300000164"
+    "WMTS_TypeId": "1300000164",
+    "MinimumLevel": 0,
+    "MaximumLevel": 12,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

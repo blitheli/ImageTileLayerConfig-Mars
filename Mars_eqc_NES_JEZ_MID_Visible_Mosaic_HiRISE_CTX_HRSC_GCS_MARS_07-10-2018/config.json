@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_NES_JEZ_MID_Visible_Mosaic_HiRISE_CTX_HRSC_GCS_MARS_07-10-2018\\MetaData.html",
-    "WMTS_TypeId": "1300000138"
+    "WMTS_TypeId": "1300000138",
+    "MinimumLevel": 0,
+    "MaximumLevel": 17,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

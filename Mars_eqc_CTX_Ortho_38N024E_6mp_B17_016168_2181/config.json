@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_CTX_Ortho_38N024E_6mp_B17_016168_2181\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_CTX_Ortho_38N024E_6mp_B17_016168_2181\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_CTX_Ortho_38N024E_6mp_B17_016168_2181\\MetaData.html",
-    "WMTS_TypeId": "1300000069"
+    "WMTS_TypeId": "1300000069",
+    "MinimumLevel": 0,
+    "MaximumLevel": 13,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

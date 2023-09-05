@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_ESP_058005_1845_RED_spline_rect\\MetaData.html",
-    "WMTS_TypeId": "1300000101"
+    "WMTS_TypeId": "1300000101",
+    "MinimumLevel": 0,
+    "MaximumLevel": 17,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

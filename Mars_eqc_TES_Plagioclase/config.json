@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_TES_Plagioclase\\MetaData.html",
-    "WMTS_TypeId": "1300000158"
+    "WMTS_TypeId": "1300000158",
+    "MinimumLevel": 0,
+    "MaximumLevel": 1,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

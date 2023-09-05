@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_HRSC_Martian_east\\MetaData.html",
-    "WMTS_TypeId": "1300000115"
+    "WMTS_TypeId": "1300000115",
+    "MinimumLevel": 0,
+    "MaximumLevel": 11,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

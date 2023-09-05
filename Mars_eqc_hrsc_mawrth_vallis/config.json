@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_hrsc_mawrth_vallis\\MetaData.html",
-    "WMTS_TypeId": "1300000116"
+    "WMTS_TypeId": "1300000116",
+    "MinimumLevel": 0,
+    "MaximumLevel": 10,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

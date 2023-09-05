@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_ESP_042647_1760_RED_B_01_ORTHO\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_ESP_042647_1760_RED_B_01_ORTHO\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_ESP_042647_1760_RED_B_01_ORTHO\\MetaData.html",
-    "WMTS_TypeId": "1300000100"
+    "WMTS_TypeId": "1300000100",
+    "MinimumLevel": 0,
+    "MaximumLevel": 15,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

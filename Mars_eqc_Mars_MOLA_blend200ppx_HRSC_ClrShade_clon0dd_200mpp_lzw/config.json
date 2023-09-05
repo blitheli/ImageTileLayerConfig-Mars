@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_Mars_MOLA_blend200ppx_HRSC_ClrShade_clon0dd_200mpp_lzw\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Mars_MOLA_blend200ppx_HRSC_ClrShade_clon0dd_200mpp_lzw\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_Mars_MOLA_blend200ppx_HRSC_ClrShade_clon0dd_200mpp_lzw\\MetaData.html",
-    "WMTS_TypeId": "1300000128"
+    "WMTS_TypeId": "1300000128",
+    "MinimumLevel": 0,
+    "MaximumLevel": 8,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

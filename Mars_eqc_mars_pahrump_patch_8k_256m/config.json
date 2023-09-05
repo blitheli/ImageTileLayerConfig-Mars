@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_mars_pahrump_patch_8k_256m\\MetaData.html",
-    "WMTS_TypeId": "1300000130"
+    "WMTS_TypeId": "1300000130",
+    "MinimumLevel": 0,
+    "MaximumLevel": 18,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }

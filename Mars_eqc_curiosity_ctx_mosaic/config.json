@@ -14,5 +14,9 @@
     "Preview": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\index.html",
     "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\WMTSCapabilities.xml",
     "MetaData": "{MoonImage}\\Mars_eqc_curiosity_ctx_mosaic\\MetaData.html",
-    "WMTS_TypeId": "1300000093"
+    "WMTS_TypeId": "1300000093",
+    "MinimumLevel": 0,
+    "MaximumLevel": 10,
+    "NumberOfLevelZeroTilesX": 2,
+    "NumberOfLevelZeroTilesY": 1
 }
