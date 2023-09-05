@@ -40,8 +40,12 @@ def write_indexHtml():
     bbox_lon_0 = (bbox[0] + bbox[2])/2
     bbox_lat_0 = (bbox[1] + bbox[3])/2
 
-    bbox_lon = str(round(bbox_lon_0, 2))
-    bbox_lat = str(round(bbox_lat_0, 2))
+    # 中心点坐标(保留5位小数)
+    bbox_center_lon = str(round(bbox_lon_0, 5))
+    bbox_center_lat = str(round(bbox_lat_0, 5))
+
+    # 初始的缩放级别
+    zoom0 =  max(1,maxLevel-3)
 
     # 加载index.html模板文件
     with open('index.html', 'r', encoding='utf-8') as file:
@@ -54,11 +58,11 @@ def write_indexHtml():
     replaced_xml = replaced_xml.replace("{bbox_east}", bbox_east)
     replaced_xml = replaced_xml.replace("{bbox_south}", bbox_south)
     replaced_xml = replaced_xml.replace("{bbox_north}", bbox_north)
-    replaced_xml = replaced_xml.replace("{bbox_lon}", bbox_lon)
-    replaced_xml = replaced_xml.replace("{bbox_lat}", bbox_lat)
+    replaced_xml = replaced_xml.replace("{bbox_lon}", bbox_center_lon)
+    replaced_xml = replaced_xml.replace("{bbox_lat}", bbox_center_lat)
     replaced_xml = replaced_xml.replace("{minZoom}", str(minLevel+1))
     replaced_xml = replaced_xml.replace("{maxZoom}", str(maxLevel+1))
-    replaced_xml = replaced_xml.replace("{zoom0}", str(int(maxLevel/2)))
+    replaced_xml = replaced_xml.replace("{zoom0}", str(zoom0))
 
     index_path = folder_path + '/' + 'index.html'
     with open(index_path, 'w', encoding='utf-8') as file:
