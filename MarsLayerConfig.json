@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "Author": "liyunfei",
     "TileUrlTemplate": "http://{ip}:{port}/type={WMTS_TypeId}&x={x}&y={y}&z={z}",
-    "CreateTime": "2023-09-05 13:51:59",
+    "CreateTime": "2023-09-05 18:40:36",
     "Layers": [
         {
             "ProjectionType": "EQ",
@@ -2353,7 +2353,7 @@
             "Preview": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\index.html",
             "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\WMTSCapabilities.xml",
             "MetaData": "{MoonImage}\\Mars_eqc_Mars_MGS_MOLA_ClrShade_merge_global_463m\\MetaData.html",
-            "WMTS_TypeId": "1000000050",
+            "WMTS_TypeId": "1300000126",
             "MinimumLevel": 0,
             "MaximumLevel": 7,
             "NumberOfLevelZeroTilesX": 2,
@@ -2463,7 +2463,7 @@
             "Preview": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\index.html",
             "WMTS_Capabilities": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\WMTSCapabilities.xml",
             "MetaData": "{MoonImage}\\Mars_eqc_Mars_Viking_MDIM21_ClrMosaic_global_232m\\MetaData.html",
-            "WMTS_TypeId": "1003000001",
+            "WMTS_TypeId": "1300000131",
             "MinimumLevel": 0,
             "MaximumLevel": 7,
             "NumberOfLevelZeroTilesX": 2,
