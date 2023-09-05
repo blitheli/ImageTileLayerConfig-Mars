@@ -4,7 +4,7 @@
 ### 根据info.txt内的内容，自动创建所有图层的文件夹，以用于“瓦片服务器”中的“自定义图源”文件夹
 ### 大部分图层来源于：https://trek.nasa.gov/tiles/apidoc/trekAPI.html?body=mars
 ### 在每个图层文件内部
-- info.txt              为图层的描述信息，自己添加，以供参考
+- info.txt              为图层的描述信息，自动从总文件中提取, 以供参考
 - index.html            为图层的预览文件(手动或自动生成)
 - WMTSCapabilities.xml  为图层的WMTS能力文件
 - **.png                为图层的预览图
@@ -52,3 +52,5 @@
             初次生成所有mars图层文件夹，暂时metadata无法获取！
             此次生成的0_TileType可以用于红豆地球的自定义图源！
             后续待metadata可获取后，可重新删除所有文件重新生成！
+            config.json中增加WMTS_TileId,minimumLevel等属性
+            生成index.html文件

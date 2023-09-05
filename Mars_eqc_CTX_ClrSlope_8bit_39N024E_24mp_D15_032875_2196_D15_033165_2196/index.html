@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>{layer_id}</title>
+    <title>Mars_eqc_CTX_ClrSlope_8bit_39N024E_24mp_D15_032875_2196_D15_033165_2196</title>
     <script src="../assets/cdn.jsdelivr.net_npm_ol@v7.4.0_dist_ol.js"></script>
     <link rel="stylesheet" href="../assets/cdn.jsdelivr.net_npm_ol@v7.4.0_ol.css" />
     <style>
@@ -29,7 +29,7 @@
         maxResolution: 180 / 256,
         wrapX: false, //  关闭水平重复
         projection: 'EPSG:4326',
-        url: '{ip:port}/type={tile_idx}&x={x}&y={y}&z={z}'
+        url: 'http://139.224.107.180:9080/type=1300000053&x={x}&y={y}&z={z}'
       });
 
       //  用于调试的瓦片图层
@@ -44,7 +44,7 @@
           new ol.layer.Tile({
             source: src,
             //  设置BBOX边界，不用请求边界之外的数据
-            extent: [{bbox_west}, {bbox_south}, {bbox_east}, {bbox_north}]
+            extent: [24.3175598, 38.9136022, 25.0888838, 39.8727973]
           }),
 
           new ol.layer.Tile({
@@ -53,10 +53,10 @@
         ],
 
         view: new ol.View({
-          center: [{bbox_lon}, {bbox_lat}], //  初始化时中心点
-          zoom: {minZoom},
-          minZoom: {minZoom}, //maxZoom除以2取整
-          maxZoom: {maxZoom}, 
+          center: [24.7, 39.39], //  初始化时中心点
+          zoom: 1,
+          minZoom: 1, //maxZoom除以2取整
+          maxZoom: 12, 
           projection: 'EPSG:4326'
         })
       });
