@@ -58,6 +58,7 @@ def write_indexHtml():
     replaced_xml = replaced_xml.replace("{bbox_lat}", bbox_lat)
     replaced_xml = replaced_xml.replace("{minZoom}", str(minLevel+1))
     replaced_xml = replaced_xml.replace("{maxZoom}", str(maxLevel+1))
+    replaced_xml = replaced_xml.replace("{zoom0}", str(int(maxLevel/2)))
 
     index_path = folder_path + '/' + 'index.html'
     with open(index_path, 'w', encoding='utf-8') as file:
