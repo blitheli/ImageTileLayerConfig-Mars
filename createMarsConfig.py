@@ -1,5 +1,6 @@
 #   读取当前目录下所有文件夹内的config.json文件，生成特定的json对象（放在Layers数组中），并保存为文件
-#   2023-07-05  liyunfei
+#   20230705  liyunfei
+#   20230905  增加TileUrlTemplate属性属性
 #
 import os
 import json
@@ -10,6 +11,7 @@ def read_config():
     config_data = {"Description":"本文件存储了瓦片服务器发布的相关图层信息",
                    "version":"1.0.0",
                    "Author":"liyunfei",
+                   "TileUrlTemplate":"http://{ip}:{port}/type={WMTS_TypeId}&x={x}&y={y}&z={z}",
                    "CreateTime": datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
                    "Layers": []}
     
